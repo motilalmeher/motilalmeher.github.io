@@ -15,9 +15,7 @@
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
       {% assign entry_image = entry_image | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
-         <a href="{{ post.url | relative_url }}"></a>
-    </img>
+      <img class="entry-image u-photo" src="{{ entry_image }}" alt="" href="{{ post.url | relative_url }}>
     {% endif %}
   </header>
   <footer class="entry-meta">
