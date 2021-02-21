@@ -11,19 +11,17 @@
   transition: $navicon-duration / 2;
   border: 0;
   outline: none;
-  background-color: rgba(255,255,255,0);
+  background-color: $navicon-nav-bg-close;
   line-height: 5 * $navicon-height;
   cursor: pointer;
   -moz-user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
   user-select: none;
-  position: fixed;
-  top: 0; 
 
 
   &.open {
-    background-color:#fff;
+    background-color: $navicon-nav-bg-open;
   }
 
   .navicon::before,
