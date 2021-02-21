@@ -37,13 +37,13 @@ main {
     }
 
     @include breakpoint($large) {
-      padding-right: 3rem;
-      padding-left: 3rem;
+      padding-right: 2rem;
+      padding-left: 2rem;
     }
 
     @include breakpoint($xlarge) {
-      padding-right: 4rem;
-      padding-left: 4rem;
+      padding-right: 2rem;
+      padding-left: 2rem;
     }
   }
 }
