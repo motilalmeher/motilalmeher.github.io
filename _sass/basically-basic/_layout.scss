@@ -32,18 +32,18 @@ main {
     }
 
     @include breakpoint($medium) {
-      padding-right: 2rem;
-      padding-left: 2rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
     }
 
     @include breakpoint($large) {
-      padding-right: 2rem;
-      padding-left: 2rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
     }
 
     @include breakpoint($xlarge) {
-      padding-right: 2rem;
-      padding-left: 2rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
     }
   }
 }
