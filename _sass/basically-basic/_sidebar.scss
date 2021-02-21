@@ -139,6 +139,9 @@
   padding-right: 1rem;
   background-color: $background-color;
   z-index: 10000;
+  position: fixed;
+  top: 0;
+  opacity: 0; 
 
   @include breakpoint($medium) {
     right: 2rem;
