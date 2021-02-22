@@ -24,7 +24,7 @@
 .intro,
 main {
   > .inner {
-    padding: 0 0.5rem;
+    padding: 1rem 0.5rem;
 
     @include breakpoint($small) {
       padding-right: 1rem;
