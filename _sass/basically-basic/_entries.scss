@@ -4,7 +4,6 @@
 
 .entry {
   @include clearfix();
-  margin-bottom: 1rem;
   padding-bottom: 1rem;
 
   &:not(:last-child) {
@@ -20,18 +19,17 @@
    opacity:1;
    }
 .entry:hover .entry-image{
-   opacity:0;
+   opacity:0.3;
    }
 
 .entry-title {
   @include fluid-type($min-vw, $max-vw, 0px, 0px);
-  margin-bottom: 0.5rem;
-  color: tint($text-color, 25%);
+  margin-bottom: 0;
+  color: #fff;
   line-height: inherit;
   margin-top: -50px;
   padding-left: 10px;
   opacity:0;
-
   a {
     text-decoration: none;
   }
