@@ -4,7 +4,6 @@
 
 .entry {
   @include clearfix();
-  padding-bottom: 1rem;
 
   &:not(:last-child) {
     border-bottom: 1px solid $border-color;
@@ -140,7 +139,7 @@
    .entries-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 2em;
+    grid-gap: 1em;
     grid-auto-rows: 200px;
 
     .entry {
