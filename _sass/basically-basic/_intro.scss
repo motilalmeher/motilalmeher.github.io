@@ -10,6 +10,8 @@
   position: relative;
   margin-top: 0; /* compensate for intro top margin */
   margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
 
   &::before {
     position: absolute;
