@@ -9,7 +9,6 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
 baseurl: #"/jekyll-theme-basically-basic"
