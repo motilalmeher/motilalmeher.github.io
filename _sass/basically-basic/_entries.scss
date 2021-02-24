@@ -10,15 +10,16 @@
   &:not(:last-child) {
     border-bottom: 1px solid $border-color;
   }
-  .entry:hover 
-   {
-   border: 2px solid red;
-   }
-
+  
   a {
     color: inherit;
   }
 }
+
+.entry:hover 
+   {
+   border: 2px solid red;
+   }
 
 .entry-title {
   @include fluid-type($min-vw, $max-vw, 18px, 24px);
