@@ -16,9 +16,8 @@
   }
 }
 
-.entry:hover 
-   {
-   border: 2px solid red;
+.entry:hover .entry-title{
+   opacity:1
    }
 
 .entry-title {
