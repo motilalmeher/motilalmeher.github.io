@@ -3,9 +3,10 @@
    ========================================================================== */
 
 .site-footer {
-  margin-top: 4rem;
+  margin-top: 2rem;
   color: tint($text-color, 40%);
   font-size: 80%;
+  border-top: 1px solid;
 
   .inner {
     padding: 0 0.5rem;
