@@ -140,7 +140,18 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 1em;
-    grid-auto-rows: 160px;
+      
+    @include breakpoint($small) {
+     grid-auto-rows: 200px;
+    }
+
+    @include breakpoint($medium) {
+      grid-auto-rows: 180px;
+    }
+
+    @include breakpoint($large) {
+      grid-auto-rows: 160px;
+    }
 
     .entry {
       display: -webkit-box;
