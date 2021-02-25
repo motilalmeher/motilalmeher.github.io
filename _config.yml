@@ -10,7 +10,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Site Settings
 lang: en-US
 email: dugan.nash@mailinator.com
-title: Data Science|Design Thinking|Storytelling
+title: Data Science|Design Thinking|Storytelling|Connecting the dots
 description: "Your new default Jekyll theme"
 baseurl: #"/jekyll-theme-basically-basic"
 url: #"https://mmistakes.github.io"
