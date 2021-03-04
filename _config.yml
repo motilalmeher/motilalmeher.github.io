@@ -21,7 +21,7 @@ author:
   picture: /assets/images/johndoe.png
 twitter_username: Towlette_Pettetucci
 github_username: Towlette_Pettetucci
-logo:
+logo: /assets/images/logo.png
 google_analytics: UA-2011187-6
 disqus:
   shortname: basically-basic-theme
