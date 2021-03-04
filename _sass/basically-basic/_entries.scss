@@ -142,21 +142,21 @@
     // grid-auto-rows: 50px;
 
     @include breakpoint($small) {
-     grid-auto-rows: 90px;
-     grid-template-columns: auto auto; //repeat(auto-fill, minmax(150px, 1fr));
+     grid-auto-rows: 40px;
+     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-gap: 10px;
     }
 
     @include breakpoint($medium) {
-      grid-auto-rows: 155px;
-      grid-template-columns: auto auto;//repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 15px;
+      grid-auto-rows: 40px;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 10px;
     }
 
     @include breakpoint($large) {
-      grid-auto-rows: 155px;}
-      grid-template-columns: auto auto auto;//repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 20px;
+      grid-auto-rows: 40px;}
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 10px;
 
     .entry {
       display: -webkit-box;
