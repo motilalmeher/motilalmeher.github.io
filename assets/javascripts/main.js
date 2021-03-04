@@ -77,37 +77,38 @@ function toggleClassSearch() {
 
 //new script
 function resizeGridItem(item){
-   grid = document.getElementsByClassName("entries-grid")[0];
-   rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-   rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-   rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+   var grid = document.getElementsByClassName("entries-grid")[0];
+   var rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+   var rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
+   var rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
    item.style.gridRowEnd = "span "+rowSpan;
 }
 
 function resizeGridItem(item){
-  grid = document.getElementsByClassName("entries-grid")[0];
-  rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
-  rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
-  rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
+  var grid = document.getElementsByClassName("entries-grid")[0];
+  var rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows'));
+  var rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap'));
+  var rowSpan = Math.ceil((item.querySelector('.content').getBoundingClientRect().height+rowGap)/(rowHeight+rowGap));
     item.style.gridRowEnd = "span "+rowSpan;
 }
 
 function resizeAllGridItems(){
-  allItems = document.getElementsByClassName("item");
+  var allItems = document.getElementsByClassName("item");
   for(x=0;x<allItems.length;x++){
     resizeGridItem(allItems[x]);
   }
 }
 
 function resizeInstance(instance){
-	item = instance.elements[0];
+  var item = instance.elements[0];
   resizeGridItem(item);
 }
 
-window.onload = resizeAllGridItems();
-window.addEventListener("resize", resizeAllGridItems);
+var grd = document.querySelector('.entries-grid');
+grd.onload = resizeAllGridItems();
+grd.addEventListener("resize", resizeAllGridItems);
 
-allItems = document.getElementsByClassName("item");
+var allItems = document.getElementsByClassName("item");
 for(x=0;x<allItems.length;x++){
   imagesLoaded( allItems[x], resizeInstance);
 }
