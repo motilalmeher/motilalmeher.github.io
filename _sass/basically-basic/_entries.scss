@@ -150,13 +150,13 @@
     @include breakpoint($medium) {
       grid-auto-rows: 40px;
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    grid-gap: 10px;
+    grid-gap: 15px;
     }
 
     @include breakpoint($large) {
       grid-auto-rows: 40px;}
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    grid-gap: 10px;
+    grid-gap: 20px;
 
     .entry {
       display: -webkit-box;
