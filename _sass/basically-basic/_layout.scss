@@ -56,6 +56,8 @@ main {
 
 .inner {
   max-width: $large;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*
@@ -69,17 +71,10 @@ main {
       width: span(14 of 16);
     }
   }
-   .inner {
-  margin-left: auto;
-  margin-right: auto;
-}
 }
 
 .layout--about {
-   .inner {
-  margin-left: auto;
-  margin-right: auto;
-}
+   
   .entry-wrap {
     display: -ms-flexbox;
     display: flex;
@@ -120,10 +115,7 @@ main {
 }
 
 .layout--cv {
-   .inner {
-  margin-left: auto;
-  margin-right: auto;
-}
+ 
   .entries {
     .entry-header {
       @include breakpoint($medium) {
