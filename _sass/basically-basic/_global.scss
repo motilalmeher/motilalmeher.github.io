@@ -35,10 +35,23 @@
 }
 
 .site-logo {
-  width: $site-image-width*1.5;
-  height: $site-image-height*1.5;
+  
   margin-right: 0.5rem;
   border-radius: 50%;
+  @include breakpoint($small) {
+    width: $site-image-width*1.2;
+    height: $site-image-height*1.2;
+  }
+   
+   @include breakpoint($medium) {
+    width: $site-image-width*1.4;
+    height: $site-image-height*1.4;
+  }
+
+  @include breakpoint($large) {
+    width: $site-image-width*1.6;
+    height: $site-image-height*1.6;
+  }
 }
 
 .more-link {
