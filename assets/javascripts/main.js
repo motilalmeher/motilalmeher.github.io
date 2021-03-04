@@ -93,7 +93,7 @@ function resizeGridItem(item){
 }
 
 function resizeAllGridItems(){
-  var allItems = document.getElementsByClassName("item");
+  var allItems = document.getElementsByClassName("entry");
   for(x=0;x<allItems.length;x++){
     resizeGridItem(allItems[x]);
   }
@@ -108,7 +108,7 @@ var grd = document.querySelector('.entries-grid');
 grd.onload = resizeAllGridItems();
 grd.addEventListener("resize", resizeAllGridItems);
 
-var allItems = document.getElementsByClassName("item");
+var allItems = document.getElementsByClassName("entry");
 for(x=0;x<allItems.length;x++){
   imagesLoaded( allItems[x], resizeInstance);
 }
