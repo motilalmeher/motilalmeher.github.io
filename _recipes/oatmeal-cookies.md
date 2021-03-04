@@ -3,7 +3,7 @@ title: "Oatmeal Cookies"
 excerpt_separator: <!--more-->
 image: 
   path: /assets/images/oatmeal-cookies-lg.jpg
-  thumbnail: /assets/images/oatmeal-cookies-400x200.jpg
+  thumbnail: /assets/images/eder-oliveira-180877.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
