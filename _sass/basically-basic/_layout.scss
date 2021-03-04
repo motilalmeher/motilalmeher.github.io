@@ -24,26 +24,26 @@
 .intro,
 main {
   > .inner {
-     margin-left: auto;
-     margin-right: auto;
+     margin-left:  0rem;
+     margin-right:  0rem;
     @include breakpoint($small) {
       padding-right: 1rem;
       padding-left: 1rem;
     }
 
     @include breakpoint($medium) {
-      padding-right: 1rem;
-      padding-left: 1rem;
+      padding-right: 1.5rem;
+      padding-left: 1.5rem;
     }
 
     @include breakpoint($large) {
-      padding-right: 1rem;
-      padding-left: 1rem;
+      padding-right: 2rem;
+      padding-left: 2rem;
     }
 
     @include breakpoint($xlarge) {
-      padding-right: 1rem;
-      padding-left: 1rem;
+      padding-right: 2.5rem;
+      padding-left: 2.5rem;
     }
    }
 }
