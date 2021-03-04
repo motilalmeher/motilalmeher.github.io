@@ -104,9 +104,9 @@ function resizeInstance(instance){
   resizeGridItem(item);
 }
 
-var grd = document.querySelector('.entries-grid');
-grd.onload = resizeAllGridItems();
-grd.addEventListener("resize", resizeAllGridItems);
+// var grd = document.querySelector('.entries-grid');
+window.onload = resizeAllGridItems();
+window.addEventListener("resize", resizeAllGridItems);
 
 var allItems = document.getElementsByClassName("entry");
 for(x=0;x<allItems.length;x++){
