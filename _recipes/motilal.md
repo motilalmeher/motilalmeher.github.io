@@ -3,7 +3,7 @@ title: "Peanut Butter Cookies"
 excerpt_separator: <!--more-->
 image: 
   path: /assets/images/peanut-butter-cookies-lg.jpg
-  thumbnail: /assets/images/peanut-butter-cookies-400x200.jpg
+  thumbnail: /assets/images/images.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
