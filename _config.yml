@@ -93,6 +93,10 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+    
+  Machine Learning Systems Design:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
