@@ -36,5 +36,6 @@ navigation_pages:
   - about.md
   - posts.md
   - recipes.md
+  - Machine Learning Systems Design.md
   - tags.md
   - categories.md
