@@ -16,11 +16,11 @@ baseurl: #"/jekyll-theme-basically-basic"
 url: #"https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+  name: Motilal Meher
+  twitter: motilalmeher1
+  picture:
+twitter_username: motilalmeher1
+github_username: motilalmeher
 logo: /assets/images/logo.png
 google_analytics: UA-2011187-6
 disqus:
