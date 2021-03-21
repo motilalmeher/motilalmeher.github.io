@@ -35,6 +35,7 @@ google_fonts:
 navigation_pages:
   - about.md
   #- Machine Learning Systems Design.md
+  - mlsd.md
   - recipes.md
   - tags.md
   - categories.md
