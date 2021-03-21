@@ -94,7 +94,7 @@ collections:
     output: true
     permalink: /:collection/:path/
     
-  Machine Learning Systems Design:
+  mlsd:
     output: true
     permalink: /:collection/:path/
 
