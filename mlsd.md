@@ -2,6 +2,6 @@
 title: Machine Learning Systems Design
 layout: collection
 permalink: /mlsd/
-collection: MLSD
+collection: mlsd
 entries_layout: grid
 ---
