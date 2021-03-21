@@ -35,6 +35,6 @@ google_fonts:
 navigation_pages:
   - posts.md
   - about.md
-  - Machine Learning Systems Design.md
+  #- Machine Learning Systems Design.md
   - tags.md
   - categories.md
