@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: Machine Learning Systems Design
 layout: collection
 permalink: /recipes/
 collection: recipes
