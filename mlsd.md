@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Systems Design
+title: Stories
 layout: collection
-permalink: /mlsd/
-collection: mlsd
+permalink: /stories/
+collection: stories
 entries_layout: grid
 ---
