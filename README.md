@@ -28,3 +28,6 @@
 2. Cold mail/network
 3. Project(2)
 4. Company wise preparation
+
+## other useful links
+1. https://elvissaravia.substack.com/p/machine-learning-and-deep-learning
