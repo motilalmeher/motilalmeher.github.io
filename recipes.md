@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Systems Design
+title: Layman Machine Learning
 layout: collection
-permalink: /Machine-Learning-Systems-Design/
+permalink: /Layman-Machine-Learning/
 collection: recipes
 entries_layout: grid
 ---
