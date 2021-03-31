@@ -5,6 +5,10 @@ categories:
 tags:
   - Post Formats
 last_modified_at: 2017-03-23T15:33:37-04:00
+image: 
+  path: /assets/images/chocolate-chip-cookies-lg.jpg
+  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
