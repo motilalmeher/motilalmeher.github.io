@@ -9,10 +9,10 @@ layout: default
     <div>{{ content }}</div>
 
     <div>
-     
+     <!--
      <header class="section-title" style="text-align: center;">
         <h2>{{ site.data.theme.t.posts | default: 'Posts' }}{% if paginator.page > 1 %}{{ site.data.theme.t.page | default: 'Page' | prepend: ' - ' | append: ' ' }}{{ paginator.page }} {{ site.data.theme.t.of | default: 'of' }} {{ paginator.total_pages }}{% endif %}</h2>
-      </header>
+      </header> -->
       <div class="entries-{{ page.entries_layout | default: 'list' }}">
           {% include posts-all.html %}
       </div>
