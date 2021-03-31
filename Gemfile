@@ -12,4 +12,6 @@ gem "jekyll-remote-theme"
    gem "jekyll-gist"
    gem "jekyll-feed"
    gem "jemoji"
- end
+   gem "jekyll-seo-tag"
+   gem "jekyll-algolia"
+end
