@@ -72,7 +72,7 @@ main {
 .layout--page {
   .entry-content {
     @include breakpoint($large) {
-      width: span(14 of 16);
+      //width: span(14 of 16);
     }
   }
 }
@@ -93,8 +93,8 @@ main {
 
   .entry-content {
     @include breakpoint($medium) {
-      -ms-flex: 1;
-      flex: 1;
+     // -ms-flex: 1;
+     // flex: 1;
     }
   }
 
@@ -135,8 +135,8 @@ main {
 
     .entry-content {
       @include breakpoint($medium) {
-        float: right;
-        width: span(11 of 16);
+      //  float: right;
+      // width: span(11 of 16);
       }
     }
   }
