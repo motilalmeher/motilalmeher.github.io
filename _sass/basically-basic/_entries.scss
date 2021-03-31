@@ -26,12 +26,8 @@
   margin-bottom: 0;
   color: tint($text-color, 25%);
   line-height: inherit;
-  //margin-top: -35px;
-  //padding-left: 10px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  margin-top: -35px;
+  padding-left: 10px;
   opacity:0;
   a {
     text-decoration: none;
