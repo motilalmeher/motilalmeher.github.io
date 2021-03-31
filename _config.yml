@@ -114,3 +114,9 @@ defaults:
     values:
       layout: post
       read_time: true
+  - scope:
+      path: "_stories"
+      type: stories
+    values:
+      layout: post
+      read_time: true
