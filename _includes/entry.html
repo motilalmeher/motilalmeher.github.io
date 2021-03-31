@@ -14,11 +14,14 @@
         {% assign entry_image = entry_image | relative_url %}
       {% endunless %}
       {% assign entry_image = entry_image | escape %}
-      <a href="{{ post.url | relative_url }}"><img class="entry-image u-photo" src="{{ entry_image }}" alt=""> </a>
+      <a href="{{ post.url | relative_url }}">
+        <img class="entry-image u-photo" src="{{ entry_image }}" alt=""> 
+         <h3 class="entry-title">
+           <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
+         </h3>
+      </a>
     {% endif %}
-    <h3 class="entry-title">
-      <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
-    </h3>
+    
 
   </header>
   </div>
