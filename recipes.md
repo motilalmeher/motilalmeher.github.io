@@ -1,7 +1,7 @@
 ---
-title: Layman Machine Learning
+title: Data science
 layout: collection
-permalink: /Layman-Machine-Learning/
+permalink: /Data-science/
 collection: recipes
 entries_layout: grid
 ---
