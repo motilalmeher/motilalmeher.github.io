@@ -12,7 +12,7 @@ lang: en-US
 email: motilalmeher11@gmail.com
 title: Motilal Meher #Data Science|Design Thinking|Storytelling|Connecting the dots
 description: "Your new default Jekyll theme"
-baseurl: #"/jekyll-theme-basically-basic"
+baseurl: "/home"
 url: #"https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
