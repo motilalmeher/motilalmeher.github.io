@@ -8,10 +8,6 @@
   <div class="content">
   <header class="entry-header">
     
-    <h3 class="entry-title">
-       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
-    </h3>
-    
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail %}
       {% unless entry_image contains '://' %}
@@ -23,8 +19,10 @@
       </a>
     {% endif %}
     
+    <h3 class="entry-title">
+       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
+    </h3>
     
-
   </header>
   </div>
   <!-- 
