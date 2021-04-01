@@ -148,13 +148,13 @@
     }
 
     @include breakpoint($medium) {
-      grid-auto-rows: 5px;
+      grid-auto-rows: 3px;
       grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     }
 
     @include breakpoint($large) {
-      grid-auto-rows: 5px;
+      grid-auto-rows: 3px;
       grid-template-columns: repeat(3, 1fr);
        grid-gap: 25px;}
 
