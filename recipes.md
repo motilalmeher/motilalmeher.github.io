@@ -1,7 +1,7 @@
 ---
-title: Data science
+title: Projects
 layout: collection
-permalink: /Data-science/
+permalink: /projects/
 collection: recipes
 entries_layout: grid
 ---
