@@ -35,6 +35,7 @@ google_fonts:
 navigation_pages:
   - stories.md
   - recipes.md
+  - interview.md
   - about.md
   - categories.md
   - tags.md
