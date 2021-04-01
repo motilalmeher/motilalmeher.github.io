@@ -1,5 +1,5 @@
 ---
-title: Finance|Economics|Politics|Design Thninking|Sports
+title: Others
 layout: collection
 permalink: /others/
 collection: stories
