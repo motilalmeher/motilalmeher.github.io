@@ -11,7 +11,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 email: motilalmeher11@gmail.com
 title: Motilal Meher #Data Science|Design Thinking|Storytelling|Connecting the dots
-description: "Your new default Jekyll theme"
+description: "Data Science"
 baseurl: #"/home"
 url: #"https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
