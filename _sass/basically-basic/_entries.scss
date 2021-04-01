@@ -26,9 +26,9 @@
   margin-bottom: 0;
   color: tint($text-color, 25%);
   line-height: inherit;
-  //margin-top: -35px;
-  //padding-left: 10px;
-   text-align: center;
+  margin-top: -35px;
+  padding-left: 10px;
+  //text-align: center;
   opacity:0;
   a {
     text-decoration: none;
@@ -37,7 +37,6 @@
 
 .entry-image {
   width: 100%;
-  margin-top: -50px;
  // margin-bottom: 1rem;
 }
 
