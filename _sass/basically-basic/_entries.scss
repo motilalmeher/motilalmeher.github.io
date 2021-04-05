@@ -143,9 +143,13 @@
     // grid-auto-rows: 50px;
 
     @include breakpoint($small) {
-     grid-auto-rows: 20px;
-     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 2em;
+
+
+     //grid-auto-rows: 20px;
+   //  grid-template-columns: repeat(2, 1fr);
+  //  grid-gap: 1rem;
     }
 
     @include breakpoint($medium) {
