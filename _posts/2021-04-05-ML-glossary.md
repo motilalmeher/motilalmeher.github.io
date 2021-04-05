@@ -2,8 +2,8 @@
 title: "Machine Learning Glossary"
 last_modified_at: 2020-04-05
 image: 
-  path: https://d33wubrfki0l68.cloudfront.net/6546bd172de462e286eb77f7e8b2411445656ef5/37186/img/glossary_avatar.png
-  thumbnail: https://d33wubrfki0l68.cloudfront.net/6546bd172de462e286eb77f7e8b2411445656ef5/37186/img/glossary_avatar.png
+  path: https://www.aidoc.com/wp-content/uploads/2019/08/AI-Glossary-Title-Image-1-1-765x400.jpeg
+  thumbnail: https://www.aidoc.com/wp-content/uploads/2019/08/AI-Glossary-Title-Image-1-1-765x400.jpeg
 ---
 <details>
 <summary>Example</summary>
