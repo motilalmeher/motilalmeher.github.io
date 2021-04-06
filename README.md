@@ -6,7 +6,7 @@
 5. Staying Focus
 6. Silence
 7. Confidence
-8. 
+ 
 # Things To Do:
 
 ## Courses with concept,techniques,tool understanding:
