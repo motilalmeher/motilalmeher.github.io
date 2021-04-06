@@ -1,3 +1,12 @@
+# 7 Unusual skills you need to become a millionaire:-
+1. Persuasive Skills
+2. Playing chess
+3. Patience
+4. Self-Education 
+5. Staying Focus
+6. Silence
+7. Confidence
+8. 
 # Things To Do:
 
 ## Courses with concept,techniques,tool understanding:
