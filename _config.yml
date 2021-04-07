@@ -100,6 +100,9 @@ collections:
   interview:
     output: true
     permalink: /:collection/:path/
+  data_literacy:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -126,6 +129,12 @@ defaults:
   - scope:
       path: "_interview"
       type: interview
+    values:
+      layout: post
+      read_time: true
+  - scope:
+      path: "_data_literacy"
+      type: data_literacy
     values:
       layout: post
       read_time: true
