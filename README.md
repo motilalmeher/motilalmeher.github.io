@@ -43,3 +43,4 @@
 2. https://www.youtube.com/watch?v=jeqaIYchAI0
 3. https://rishabhmisra.github.io/about/
 4. https://share.streamlit.io/rdzudzar/distributionanalyser/main/main.py
+5. visual explanation https://setosa.io/ev/
