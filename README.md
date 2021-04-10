@@ -44,3 +44,4 @@
 3. https://rishabhmisra.github.io/about/
 4. https://share.streamlit.io/rdzudzar/distributionanalyser/main/main.py
 5. visual explanation https://setosa.io/ev/
+6. information theory https://colah.github.io/posts/2015-09-Visual-Information/
