@@ -47,3 +47,4 @@
 6. information theory https://colah.github.io/posts/2015-09-Visual-Information/
 7. https://www.google.com/amp/s/venturebeat.com/2019/12/06/zenia-is-using-computer-vision-to-build-an-ai-driven-fitness-trainer/amp/
 8. Fitness motion tracking
+9. https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html?m=1
