@@ -50,3 +50,4 @@
 9. https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html?m=1
 10. Logical intelligence Ai
 11. https://seeing-theory.brown.edu/index.html#firstPage
+12. https://m.facebook.com/groups/1854021431561644/permalink/2621386851491761/?paipv=0
