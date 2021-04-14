@@ -49,3 +49,4 @@
 8. Fitness motion tracking
 9. https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html?m=1
 10. Logical intelligence Ai
+11. https://seeing-theory.brown.edu/index.html#firstPage
