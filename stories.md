@@ -1,7 +1,7 @@
 ---
 title: Others
 layout: collection
-permalink: /others/
+permalink: /stories/
 collection: stories
 entries_layout: grid
 ---
