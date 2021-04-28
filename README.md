@@ -52,3 +52,7 @@
 11. https://seeing-theory.brown.edu/index.html#firstPage
 12. https://m.facebook.com/groups/1854021431561644/permalink/2621386851491761/?paipv=0
 13. https://medium.com/geekculture/how-to-build-an-nlp-machine-learning-app-end-to-end-76404ea9f6e8
+
+
+
+Self driving car: https://www.coursera.org/specializations/self-driving-cars
