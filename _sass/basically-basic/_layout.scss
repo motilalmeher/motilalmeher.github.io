@@ -27,26 +27,26 @@ main {
      margin-left:  0rem;
      margin-right:  0rem;
     @include breakpoint($small) {
-      padding-right: 1rem;
-      padding-left: 1rem;
-      padding-top: 0rem;
-    }
-
-    @include breakpoint($medium) {
       padding-right: 2rem;
       padding-left: 2rem;
       padding-top: 0rem;
     }
 
-    @include breakpoint($large) {
+    @include breakpoint($medium) {
       padding-right: 3.5rem;
       padding-left: 3.5rem;
       padding-top: 0rem;
     }
 
-    @include breakpoint($xlarge) {
+    @include breakpoint($large) {
       padding-right: 5rem;
       padding-left: 5rem;
+      padding-top: 0rem;
+    }
+
+    @include breakpoint($xlarge) {
+      padding-right: 8rem;
+      padding-left: 8rem;
       padding-top: 0rem;
     }
    }
