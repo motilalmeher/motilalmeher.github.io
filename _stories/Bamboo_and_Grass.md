@@ -1,5 +1,6 @@
 ---
 title: "Bamboo and Grass"
+description: "Don’t compare yourself from anyone..."
 last_modified_at: 2021-04-21
 image: 
   path: https://images.unsplash.com/photo-1540999758994-161f2ee6e1c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1046&q=80
