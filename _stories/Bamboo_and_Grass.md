@@ -2,8 +2,8 @@
 title: "Bamboo and Grass"
 last_modified_at: 2021-04-21
 image: 
-  path: https://unsplash.com/photos/fSAyrw46Tx4
-  thumbnail: https://unsplash.com/photos/fSAyrw46Tx4
+  path: https://images.unsplash.com/photo-1540999758994-161f2ee6e1c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1046&q=80
+  thumbnail: https://images.unsplash.com/photo-1540999758994-161f2ee6e1c8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1046&q=80
 ---
 
 There was a businessman. His business sunk and he was too much hopeless. He was tired of his life and deeply frustrated.
