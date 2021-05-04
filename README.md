@@ -56,3 +56,6 @@
 
 
 Self driving car: https://www.coursera.org/specializations/self-driving-cars
+https://www2.deloitte.com/us/en/insights/industry/financial-services/natural-language-processing-investment-management.html
+https://www.bain.com/insights/how-machine-learning-and-natural-language-processing-produce-deeper-survey-insights/
+
