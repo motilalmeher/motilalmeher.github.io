@@ -53,6 +53,7 @@
 12. https://m.facebook.com/groups/1854021431561644/permalink/2621386851491761/?paipv=0
 13. https://medium.com/geekculture/how-to-build-an-nlp-machine-learning-app-end-to-end-76404ea9f6e8
 14. https://thegradient.pub/human-centered-explainable-ai/?fbclid=IwAR16MClPuRF1uC9uWtaIRvAIPQFIjBl4BLOCUNmlSegEhMcVw6kbIdbjRoM
+15. https://gsarantitis.wordpress.com/2020/04/29/auc-roc-gains-chart-and-lift-curve-explained-with-business-implications/
 
 
 Self driving car: https://www.coursera.org/specializations/self-driving-cars
