@@ -54,7 +54,7 @@
 13. https://medium.com/geekculture/how-to-build-an-nlp-machine-learning-app-end-to-end-76404ea9f6e8
 14. https://thegradient.pub/human-centered-explainable-ai/?fbclid=IwAR16MClPuRF1uC9uWtaIRvAIPQFIjBl4BLOCUNmlSegEhMcVw6kbIdbjRoM
 15. https://gsarantitis.wordpress.com/2020/04/29/auc-roc-gains-chart-and-lift-curve-explained-with-business-implications/
-
+16. https://docs.seldon.io/projects/seldon-core/en/v1.7.0/examples/kubeflow_seldon_e2e_pipeline.html
 
 Self driving car: https://www.coursera.org/specializations/self-driving-cars
 https://www2.deloitte.com/us/en/insights/industry/financial-services/natural-language-processing-investment-management.html
