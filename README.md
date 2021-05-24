@@ -27,6 +27,7 @@
 9. [ML System design] (https://stanford-cs329s.github.io/syllabus.html)
 10. [Deep Learning] (https://www.coursera.org/specializations/deep-learning)
 11. [reinforcement learning] (https://www.coursera.org/specializations/reinforcement-learning)
+12. https://github.com/donnemartin/system-design-primer
 
 ## Case studies:
 1. Indutry based(Retail,e-commerce and Hospitality,Healthcare)
