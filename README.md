@@ -26,6 +26,7 @@
 8. [Foundations of strategic business analytics] (https://www.coursera.org/learn/strategic-business-analytics)
 9. [ML System design] (https://stanford-cs329s.github.io/syllabus.html)
 10. [Deep Learning] (https://www.coursera.org/specializations/deep-learning)
+11. [reinforcement learning] (https://www.coursera.org/specializations/reinforcement-learning)
 
 ## Case studies:
 1. Indutry based(Retail,e-commerce and Hospitality,Healthcare)
