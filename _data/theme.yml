@@ -34,9 +34,10 @@ google_fonts:
 
 navigation_pages:
   - data_literacy.md
-  - stories.md
   - recipes.md
   - interview.md
+  - finance.md
+  - stories.md
   - about.md
   - categories.md
   - tags.md
