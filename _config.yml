@@ -103,6 +103,9 @@ collections:
   data_literacy:
     output: true
     permalink: /:collection/:path/
+  Financial_Literacy:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -135,6 +138,12 @@ defaults:
   - scope:
       path: "_data_literacy"
       type: data_literacy
+    values:
+      layout: post
+      read_time: true
+  - scope:
+      path: "_Financial_Literacy"
+      type: Financial_Literacy
     values:
       layout: post
       read_time: true
