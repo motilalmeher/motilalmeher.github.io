@@ -11,6 +11,7 @@ image:
 ---
 
 List of Time Series Forecasting tools
+
 [6/1, 5:40 PM](https://www.kaggle.com/c/walmart-sales-forecasting/overview)
 
 [6/1, 5:43 PM](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/overview)
