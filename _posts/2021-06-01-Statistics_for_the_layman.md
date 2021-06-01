@@ -9,5 +9,7 @@ image:
   thumbnail: https://online.stanford.edu/sites/default/files/styles/figure_default/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?itok=hu6PM2ZF
 
 ---
-https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
+[standford cheat sheet link](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+
+
 Welcome to statistics
