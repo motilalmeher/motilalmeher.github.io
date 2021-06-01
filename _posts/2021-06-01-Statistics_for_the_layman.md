@@ -5,5 +5,6 @@ categories:
 tags:
 last_modified_at: 2021-06-01
 image: https://online.stanford.edu/sites/default/files/styles/figure_default/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?itok=hu6PM2ZF
+
 ---
 Welcome to statistics
