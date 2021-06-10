@@ -5,8 +5,8 @@ categories:
 tags:
 last_modified_at: 2021-06-01
 image: 
-  path: https://online.stanford.edu/sites/default/files/styles/figure_default/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?itok=hu6PM2ZF
-  thumbnail: https://online.stanford.edu/sites/default/files/styles/figure_default/public/2018-08/introduction-to-probability-and-statistics-for-epidemiology_HRP259.jpg?itok=hu6PM2ZF
+  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeZWT8ZfppYTzaYM-mofD9wCpzAQEFHeZ-g&usqp=CAU
+  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeZWT8ZfppYTzaYM-mofD9wCpzAQEFHeZ-g&usqp=CAU
 
 ---
 standford cheat sheet link
