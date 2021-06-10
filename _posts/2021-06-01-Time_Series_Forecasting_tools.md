@@ -1,5 +1,5 @@
 ---
-title: "Time series forecasting tools"
+title: "Time series forecasting"
 categories:
   - Time series
 tags:
