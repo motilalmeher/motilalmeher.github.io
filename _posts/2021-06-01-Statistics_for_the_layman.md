@@ -5,8 +5,8 @@ categories:
 tags:
 last_modified_at: 2021-06-01
 image: 
-  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeZWT8ZfppYTzaYM-mofD9wCpzAQEFHeZ-g&usqp=CAU
-  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeZWT8ZfppYTzaYM-mofD9wCpzAQEFHeZ-g&usqp=CAU
+  path: https://c0.wallpaperflare.com/preview/409/294/431/bone-casino-chance-chopping.jpg
+  thumbnail: https://c0.wallpaperflare.com/preview/409/294/431/bone-casino-chance-chopping.jpg
 
 ---
 standford cheat sheet link
