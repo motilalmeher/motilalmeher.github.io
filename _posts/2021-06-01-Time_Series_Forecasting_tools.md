@@ -6,8 +6,8 @@ tags:
   - Forecasting
 last_modified_at: 2021-06-01
 image: 
-  path: https://i2.wp.com/aditya-bhattacharya.net/wp-content/uploads/2020/07/MadValidArgusfish-size_restricted.gif?fit=724%2C250&ssl=1
-  thumbnail: https://i2.wp.com/aditya-bhattacharya.net/wp-content/uploads/2020/07/MadValidArgusfish-size_restricted.gif?fit=724%2C250&ssl=1
+  path: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGltZSUyMHNlcmllc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60
+  thumbnail: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGltZSUyMHNlcmllc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60
 ---
 
 List of Time Series Forecasting tools
