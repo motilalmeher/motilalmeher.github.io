@@ -7,3 +7,4 @@ image:
   thumbnail: https://videorista.com/image/cache/catalog/Videorista/Science/iokanan_vfx_v43-cr-1280x720.jpg
 ---
  
+ https://www.linkedin.com/in/gunjansyal/
