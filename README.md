@@ -58,6 +58,7 @@
 15. https://gsarantitis.wordpress.com/2020/04/29/auc-roc-gains-chart-and-lift-curve-explained-with-business-implications/
 16. https://docs.seldon.io/projects/seldon-core/en/v1.7.0/examples/kubeflow_seldon_e2e_pipeline.html
 17. https://www.xyonix.com/blog/using-ai-to-improve-sports-performance-amp-achieve-better-running-efficiency
+18. https://www.sportperformanceanalysis.com/article/automated-tracking-of-player-positioning-using-match-footage
 
 Self driving car: https://www.coursera.org/specializations/self-driving-cars
 https://www2.deloitte.com/us/en/insights/industry/financial-services/natural-language-processing-investment-management.html
