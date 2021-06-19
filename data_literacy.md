@@ -1,5 +1,5 @@
 ---
-title: Data Literacy and ML System Design
+title: Data Literacy
 layout: collection
 permalink: /data_literacy/
 collection: data_literacy
