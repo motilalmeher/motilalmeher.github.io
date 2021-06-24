@@ -13,7 +13,7 @@ Spring board (https://www.springboard.com/blog/data-science/data-science-intervi
 Business analyst use cases
 
 Problem solving(business analytics cases: company wise Glassdoor)
-Product based FANG, Airbnb, Walmart
+Product based FANG, Airbnb, Walmart , uber , Ola, Financial services
 
 Hypothesis driven https://www.linkedin.com/pulse/what-i-learned-mckinsey-part-3-how-hypothesis-driven-devin-kasper?trk=read_related_article-card_title
 
@@ -30,3 +30,22 @@ Prepare a book
 
 https://www2.deloitte.com/us/en/pages/deloitte-analytics/articles/business-analytics-case-studies.html
 https://www.mckinsey.com/careers/mckinsey-digital-assessment
+https://www.myconsultingoffer.org/case-study-interview-prep/bcg-gamma/
+
+Guess estimate and management consulting case
+
+Mu Sigma https://www.myconsultingoffer.org/case-study-interview-prep/bcg-gamma/
+
+SWAT analysis
+https://www.answerminer.com/blog/predictive-analytics-in-real-life
+
+Perspective analytics
+
+Defining business problems to analytics platform
+https://www.dummies.com/business/business-strategy/how-to-create-a-problem-statement-in-business-analysis/
+https://towardsdatascience.com/best-investment-portfolio-via-monte-carlo-simulation-in-python-53286f3fe93
+https://www.ibm.com/garage/method/practices/discover/business-problem-to-ai-data-science-solution/
+https://towardsdatascience.com/how-to-structure-business-problems-for-data-science-solutions-d7d8a645fb75
+https://www.linkedin.com/mwlite/in/santoshchikoti
+
+http://allaboutdatascience.blogspot.com/search?updated-max=2014-07-23T03:40:00-07:00&max-results=7&m=1
