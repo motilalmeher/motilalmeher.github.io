@@ -6,3 +6,4 @@ This subfolder is dedicated for interview only.
 
 [Nick Singh](https://www.nicksingh.com/)
 
+[twitter](https://huyenchip.com/ml-interviews-book/)
