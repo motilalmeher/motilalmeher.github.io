@@ -26,3 +26,6 @@ https://towardsdatascience.com/markov-models-and-trump-tweets-91b0d3f0f1eb
 Use keywords to search articles questions in medium
 
 Prepare a book
+
+
+https://www2.deloitte.com/us/en/pages/deloitte-analytics/articles/business-analytics-case-studies.html
