@@ -29,3 +29,4 @@ Prepare a book
 
 
 https://www2.deloitte.com/us/en/pages/deloitte-analytics/articles/business-analytics-case-studies.html
+https://www.mckinsey.com/careers/mckinsey-digital-assessment
