@@ -49,3 +49,5 @@ https://towardsdatascience.com/how-to-structure-business-problems-for-data-scien
 https://www.linkedin.com/mwlite/in/santoshchikoti
 
 http://allaboutdatascience.blogspot.com/search?updated-max=2014-07-23T03:40:00-07:00&max-results=7&m=1
+https://medium.com/@rama100
+https://towardsdatascience.com/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365
