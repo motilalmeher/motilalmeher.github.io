@@ -51,3 +51,5 @@ https://www.linkedin.com/mwlite/in/santoshchikoti
 http://allaboutdatascience.blogspot.com/search?updated-max=2014-07-23T03:40:00-07:00&max-results=7&m=1
 https://medium.com/@rama100
 https://towardsdatascience.com/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365
+
+https://docs.google.com/document/u/0/d/1cZ_B6ZDwCK6xJx_7eOK0JJ_fsWcwVnIgabpGz3cMrUk/mobilebasic
