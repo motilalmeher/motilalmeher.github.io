@@ -55,3 +55,6 @@ https://medium.com/@rama100
 https://towardsdatascience.com/i-have-data-i-need-insights-where-do-i-start-7ddc935ab365
 
 https://docs.google.com/document/u/0/d/1cZ_B6ZDwCK6xJx_7eOK0JJ_fsWcwVnIgabpGz3cMrUk/mobilebasic
+
+podcast
+https://soundcloud.com/cassie-kozyrkov
