@@ -34,6 +34,7 @@ https://www.mckinsey.com/careers/mckinsey-digital-assessment
 https://www.myconsultingoffer.org/case-study-interview-prep/bcg-gamma/
 
 Guess estimate and management consulting case
+https://swethasrinivasan25.medium.com/a-navigation-guide-to-my-stories-7c6d4ecb0ae7
 
 Mu Sigma https://www.myconsultingoffer.org/case-study-interview-prep/bcg-gamma/
 
