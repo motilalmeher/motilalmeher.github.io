@@ -33,8 +33,12 @@
 1. Indutry based(Retail,e-commerce and Hospitality,Healthcare)
 2. Model use case based
 3. Fun
+LinkedIn article
 https://www.linkedin.com/pulse/linkedin-top-voices-2019-data-science-analytics-lorenzetti-soper
+https://www.linkedin.com/pulse/top-12-data-science-experts-best-career-articles-linkedin-tanmoy-ray
 
+Public policies:
+https://www.linkedin.com/feed/update/activity:6814583971003850752
 
 ## Interview/Job preparation:
 1. Resume/Linkedin/Web presence
