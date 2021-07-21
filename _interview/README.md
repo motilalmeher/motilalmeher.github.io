@@ -59,3 +59,5 @@ https://docs.google.com/document/u/0/d/1cZ_B6ZDwCK6xJx_7eOK0JJ_fsWcwVnIgabpGz3cM
 podcast
 https://soundcloud.com/cassie-kozyrkov
 https://www.youtube.com/playlist?list=PLRKtJ4IpxJpBxX2S9wXJUhB1_ha3ADFpF
+
+https://www.interviewquery.com/blog-walmart-data-scientist-interview
