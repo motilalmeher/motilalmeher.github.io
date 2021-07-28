@@ -9,3 +9,4 @@ image:
   thumbnail: https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80
 
 ---
+https://mlwhiz.com/blog/2017/02/05/ml_algorithms_for_data_scientist/
