@@ -2,6 +2,6 @@
 layout: home
 paginate: true
 entries_layout: grid
-title: "Data Science"
-sub_title: "Probability,Statistics,ML,Deep_Learning"
+title: "Help you learn Data science"
+sub_title: "Probability,Statistics,ML,Deep_Learning,MLOps"
 ---
