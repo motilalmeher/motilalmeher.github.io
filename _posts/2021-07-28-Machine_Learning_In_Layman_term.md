@@ -1,11 +1,11 @@
 ---
-title: "Machine Learning Algorithm in layman"
+title: "Explain Machine Learning to Grandma"
 categories:
   - Machine Learning, Algorithm
 tags:
 last_modified_at: 2021-07-28
 image: 
-  path: https://wallpaperaccess.com/full/1728956.jpg
-  thumbnail: https://wallpaperaccess.com/full/1728956.jpg
+  path: https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80
+  thumbnail: https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80
 
 ---
