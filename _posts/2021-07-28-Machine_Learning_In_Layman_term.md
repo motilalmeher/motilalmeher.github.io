@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning to Grandma"
+title: "Machine Learning to Layman"
 categories:
   - Machine Learning, Algorithm
 tags:
