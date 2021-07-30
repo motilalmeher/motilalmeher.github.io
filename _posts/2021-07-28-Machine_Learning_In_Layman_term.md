@@ -5,7 +5,6 @@ categories:
 tags:
 last_modified_at: 2021-07-28
 image: 
-  path: https://www.invespcro.com/blog/images/blog-images/fi.jpg
   thumbnail: https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 
 
 ---
@@ -13,4 +12,4 @@ https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non
 https://mlwhiz.com/blog/2017/02/05/ml_algorithms_for_data_scientist/
 https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b
 
-![image-center]({{ site.url }}{{ site.baseurl }}https://imgs.xkcd.com/comics/machine_learning_2x.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }} https://imgs.xkcd.com/comics/machine_learning_2x.png){: .align-center}
