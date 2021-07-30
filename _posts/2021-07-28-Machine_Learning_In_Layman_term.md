@@ -12,4 +12,4 @@ https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non
 https://mlwhiz.com/blog/2017/02/05/ml_algorithms_for_data_scientist/
 https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b
 
-![image-center]({{ site.url }}{{ site.baseurl }} https://imgs.xkcd.com/comics/machine_learning_2x.png){: .align-center}
+![image-center](https://imgs.xkcd.com/comics/machine_learning_2x.png){: .align-center}
