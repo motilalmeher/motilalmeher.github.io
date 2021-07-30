@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning to Layman"
+title: "ML for Layman"
 categories:
   - Machine Learning, Algorithm
 tags:
