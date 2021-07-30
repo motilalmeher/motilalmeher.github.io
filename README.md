@@ -71,3 +71,6 @@ https://www2.deloitte.com/us/en/insights/industry/financial-services/natural-lan
 https://www.bain.com/insights/how-machine-learning-and-natural-language-processing-produce-deeper-survey-insights/
 https://stats.stackexchange.com/questions/344705/product-demand-forecasting-for-thousands-of-products-across-multiple-stores
 
+
+shape image by adding parameter to url
+https://docs.kontent.ai/reference/image-transformation
