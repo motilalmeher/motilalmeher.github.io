@@ -5,7 +5,7 @@ categories:
 tags:
 last_modified_at: 2021-07-28
 image: 
-  path: 
+  path: https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg
   thumbnail: https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 
 
 ---
