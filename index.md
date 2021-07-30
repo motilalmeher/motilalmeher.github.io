@@ -6,4 +6,4 @@ title: "Data science"
 sub_title: "Lets Build Data Literacy..."
 ---
 
-Hear I talk about Statistics, Machine Learning and Deep Learning model, MLOps and different bussiness use cases and their solutions.
+**Hear I talk about Statistics, Machine Learning, Deep Learning model, MLOps and different bussiness use cases and their solutions.**
