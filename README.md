@@ -36,6 +36,8 @@
 LinkedIn article
 https://www.linkedin.com/pulse/linkedin-top-voices-2019-data-science-analytics-lorenzetti-soper
 https://www.linkedin.com/pulse/top-12-data-science-experts-best-career-articles-linkedin-tanmoy-ray
+https://www.kdnuggets.com/2021/07/lost-art-decile-analysis.html
+Industries such as Finance and Marketing use Logistic Regression in a more appropriate way for Credit risk modelling and marketing campaign targeting, respectively.
 
 Public policies:
 https://www.linkedin.com/feed/update/activity:6814583971003850752
