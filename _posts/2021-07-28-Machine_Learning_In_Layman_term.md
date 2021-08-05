@@ -15,7 +15,7 @@ Suppose you go shopping for mangoes one day. The vendor has laid out a cart full
 
 You remember your grandmother saying that bright yellow mangoes are sweeter than pale yellow ones. So you make a simple rule: pick only from the bright yellow mangoes. You check the color of the mangoes, pick the bright yellow ones, pay up, and return home. Happy ending?
 
-Not quite.Life is complicated
+Not quite.Life is complicated...
 
 Suppose you go home and taste the mangoes. Some of them are not sweet as you'd like. You are worried. Apparently, your grandmother's wisdom is insufficient. There is more to mangoes than just color.
 
