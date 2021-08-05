@@ -9,7 +9,9 @@ image:
   thumbnail: https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 
 
 ---
-Many times my non-technical friends have shown certain rejection of new technologies, they often say that they are complicated, that they do not understand how they work and that those things are not for them.
+A story, how I explained Machine Learning to my non-technical friend...
+
+Many times my non-technical friends have shown certain rejection of new technologies, they often say that they are complicated, that they do not understand how they work.
 A few days ago one of my non-technical friend asked me how the TV knew what he liked since it always suggested him to watch programs of his interest, I told him that it was by Machine learning, so he answered what? So I set myself the challenge to explain to my non-technical friend how the platform worked.
 I clarify that I will not be very technical, but I will make a good emphasis on the subject and explain what I consider important about machine learning in a simple way.
 
