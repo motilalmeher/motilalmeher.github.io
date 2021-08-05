@@ -1,5 +1,5 @@
 ---
-title: "ML for Layman"
+title: "ML in Layman's terms"
 categories:
   - Machine Learning, Algorithm
 tags:
@@ -9,17 +9,13 @@ image:
   thumbnail: https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 
 
 ---
-Mango Shopping
+## Mango Shopping
 
-Suppose you go shopping for mangoes one day. The vendor has laid out a cart full of mangoes. You can handpick the mangoes, the vendor will weigh them, and you pay according to a fixed Rs per Kg rate (typical story in India).
-
-Obviously, you want to pick the sweetest, most ripe mangoes for yourself (since you are paying by weight and not by quality). How do you choose the mangoes?
+Suppose you go shopping for mangoes one day. The vendor has laid out a cart full of mangoes. You can handpick the mangoes, the vendor will weigh them, and you pay according to a fixed Rs per Kg rate (typical story in India).Obviously, you want to pick the sweetest, most ripe mangoes for yourself (since you are paying by weight and not by quality). How do you choose the mangoes?
 
 You remember your grandmother saying that bright yellow mangoes are sweeter than pale yellow ones. So you make a simple rule: pick only from the bright yellow mangoes. You check the color of the mangoes, pick the bright yellow ones, pay up, and return home. Happy ending?
 
-Not quite.
-
-Life is complicated
+Not quite.Life is complicated
 
 Suppose you go home and taste the mangoes. Some of them are not sweet as you'd like. You are worried. Apparently, your grandmother's wisdom is insufficient. There is more to mangoes than just color.
 
@@ -33,13 +29,13 @@ Now, you move to a different part of the world. Here, mangoes taste surprisingly
 
 You marry someone who hates mangoes. She loves apples instead. You go apple shopping. Now, all your accumulated knowledge about mangoes is worthless. You have to learn everything about the correlation between the physical characteristics and the taste of apples, by the same method of experimentation. You do it, because you love her.
 
-Enter computer programs
+## Enter computer programs
 
 Now, imagine that all this while, you were writing a computer program to help you choose your mangoes (or apples). You would write rules of the following kind:
 
-if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet.
-if (soft): mango is juicy.
-etc.
+if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet. </br>
+if (soft): mango is juicy. </br>
+etc. </br>
 
 You would use these rules to choose the mangoes. You could even send your younger brother with this list of rules to buy the mangoes, and you would be assured that he will pick only the mangoes of your choice.
 
