@@ -9,9 +9,6 @@ image:
   thumbnail: https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 
 
 ---
-https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people?top_ans=1866531 </br>
-https://mlwhiz.com/blog/2017/02/05/ml_algorithms_for_data_scientist/ </br>
-https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b </br>
 Mango Shopping
 
 Suppose you go shopping for mangoes one day. The vendor has laid out a cart full of mangoes. You can handpick the mangoes, the vendor will weigh them, and you pay according to a fixed Rs per Kg rate (typical story in India).
