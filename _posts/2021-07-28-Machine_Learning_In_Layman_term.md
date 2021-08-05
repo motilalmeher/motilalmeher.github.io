@@ -33,9 +33,11 @@ You marry someone who hates mangoes. She loves apples instead. You go apple shop
 
 Now, imagine that all this while, you were writing a computer program to help you choose your mangoes (or apples). You would write rules of the following kind:
 
-### if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet.</br>
-### if (soft): mango is juicy.</br>
-### etc.</br>
+<pre>
+if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet.
+if (soft): mango is juicy.
+etc.
+</pre>
 
 You would use these rules to choose the mangoes. You could even send your younger brother with this list of rules to buy the mangoes, and you would be assured that he will pick only the mangoes of your choice.
 
@@ -43,7 +45,7 @@ But every time you make a new observation from your experiments, you have to man
 
 But not everyone has that kind of time.
 
-Enter Machine Learning algorithms
+## Enter Machine Learning algorithms
 
 ML algorithms are an evolution over normal algorithms. They make your programs "smarter", by allowing them to automatically learn from the data you provide.
 
