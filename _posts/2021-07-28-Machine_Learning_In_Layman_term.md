@@ -33,9 +33,9 @@ You marry someone who hates mangoes. She loves apples instead. You go apple shop
 
 Now, imagine that all this while, you were writing a computer program to help you choose your mangoes (or apples). You would write rules of the following kind:
 
-if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet. </br>
-if (soft): mango is juicy. </br>
-etc. </br>
+### if (color is bright yellow and size is big and sold by favorite vendor): mango is sweet.</br>
+### if (soft): mango is juicy.</br>
+### etc.</br>
 
 You would use these rules to choose the mangoes. You could even send your younger brother with this list of rules to buy the mangoes, and you would be assured that he will pick only the mangoes of your choice.
 
