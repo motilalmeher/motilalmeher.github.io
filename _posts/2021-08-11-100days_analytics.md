@@ -5,8 +5,8 @@ categories:
 tags:
 last_modified_at: 2021-08-11
 image: 
-  path: https://miro.medium.com/max/924/1*EuexjAqd5gM2ya3CYcJmbg.jpeg
-  thumbnail: https://miro.medium.com/max/924/1*EuexjAqd5gM2ya3CYcJmbg.jpeg 
+  path: https://c1.wallpaperflare.com/preview/442/930/571/paper-business-aerial-analysis.jpg
+  thumbnail: https://c1.wallpaperflare.com/preview/442/930/571/paper-business-aerial-analysis.jpg 
 
 ---
 The top trophy hire in data science is elusive, and it’s no surprise: a “full-stack” data scientist has mastery of machine learning, statistics, and analytics. When teams can’t get their hands on a three-in-one polymath, they set their sights on luring the most impressive prize among the single-origin specialists. Which of those skills gets the pedestal?
