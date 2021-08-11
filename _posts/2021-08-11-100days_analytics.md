@@ -23,7 +23,6 @@ Instead of asking an analyst to develop their statistics or machine learning ski
 
 ## Excellence in statistics: rigor
 Statisticians are specialists in coming to conclusions beyond your data safely — they are your best protection against fooling yourself in an uncertain world. To them, inferring something sloppily is a greater sin than leaving your mind a blank slate, so expect a good statistician to put the brakes on your exuberance. They care deeply about whether the methods applied are right for the problem and they agonize over which inferences are valid from the information at hand.
-THIS ARTICLE ALSO APPEARS IN:
 
 
 The result? A perspective that helps leaders make important decisions in a risk-controlled manner. In other words, they use data to minimize the chance that you’ll come to an unwise conclusion.
