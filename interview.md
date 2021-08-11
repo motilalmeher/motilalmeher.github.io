@@ -1,5 +1,5 @@
 ---
-title: Data-Science-Interview
+title: Data Science Interview
 layout: collection
 permalink: /interview/
 collection: interview
