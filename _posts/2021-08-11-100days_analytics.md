@@ -9,7 +9,7 @@ image:
   thumbnail: https://c1.wallpaperflare.com/preview/442/930/571/paper-business-aerial-analysis.jpg 
 
 ---
-## What great data analysts do and why every organization needs them? What is the diffence between statistician, machine learning engineer and analyst?
+What great data analysts do and why every organization needs them? What is the diffence between statistician, machine learning engineer and analyst?
 
 The top trophy hire in data science is elusive, and it’s no surprise: a “full-stack” data scientist has mastery of machine learning, statistics, and analytics. When teams can’t get their hands on a three-in-one polymath, they set their sights on luring the most impressive prize among the single-origin specialists. Which of those skills gets the pedestal?
 
