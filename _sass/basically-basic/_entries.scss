@@ -35,19 +35,13 @@
      padding-left: 0px;
      
     }
-     @include breakpoint($medium) {
-      font-size: 0.95em;
-    }
-     @include breakpoint($large) {
-      font-size: 1em;
-    }
-  
+     
   text-align: center;
   opacity:1;
   a {
     text-decoration: none;
      @include breakpoint($small) {
-      font-size: 0.6em;
+      font-size: 0.8em;
     }
      @include breakpoint($medium) {
       font-size: 0.95em;
