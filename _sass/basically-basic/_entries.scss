@@ -28,9 +28,9 @@
     
   @include breakpoint($small) {
      line-height: 20px;
-     margin-top: 10px;
+     margin-top: 15px;
      padding-left: 0px;
-     margin-bottom: 10px;
+     margin-bottom: 15px;
     }
   @include breakpoint($medium) {
     line-height: 28px;
