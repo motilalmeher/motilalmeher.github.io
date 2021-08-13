@@ -26,10 +26,10 @@
     margin-bottom: 0;
     color: tint($text-color, 25%);
    // margin-top: -55px;
+    line-height: inherit;
     margin-top: 10px;
     padding-left: 10px;
   @include breakpoint($small) {
-    
      line-height: 20px;
      margin-top: 10px;
      padding-left: 0px;
