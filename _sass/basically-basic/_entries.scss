@@ -34,7 +34,7 @@
   a {
     text-decoration: none;
      @include breakpoint($small) {
-      font-size: 0.4em;
+      font-size: 0.6em;
     }
      @include breakpoint($medium) {
       font-size: 0.95em;
