@@ -1,5 +1,6 @@
 ---
 title: "100days of analytics"
+excerpt: "Learn analytics in 100 days..."
 categories:
   - Analytics
 tags:
