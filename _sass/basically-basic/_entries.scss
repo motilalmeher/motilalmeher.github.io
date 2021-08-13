@@ -50,7 +50,7 @@
   a {
     text-decoration: none;
      @include breakpoint($small) {
-      font-size: 0.9em;
+      font-size: 1em;
     }
      @include breakpoint($medium) {
       font-size: 0.95em;
