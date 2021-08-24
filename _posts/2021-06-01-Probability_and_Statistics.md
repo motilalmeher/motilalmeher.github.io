@@ -13,7 +13,7 @@ Link to different resources for probability and statistics:
 
 1. [Probability using R](https://rstudio-pubs-static.s3.amazonaws.com/523785_e9afb5aafb2f4fa19c4f8c01553d26ad.html#data_science:_probability)<br>
 2. [Stat100 Final Cheat Sheets](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)<br>
-3. [wzchen Stat100 probability cheatsheet](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet.pdf)
+3. [Wzchen Stat100 probability cheatsheet](https://github.com/wzchen/probability_cheatsheet/blob/master/probability_cheatsheet.pdf)
 4. [Stat100 Practice problem](https://projects.iq.harvard.edu/stat110/strategic-practice-problems)<br>
 5. [Stat111 Introduction to Statistical Inference](https://sites.google.com/site/kwchankeith/teaching/s111)
 6. [Introduction to Probability by Joe Blitzstein and Jessica Hwang](http://probabilitybook.net)<br>
