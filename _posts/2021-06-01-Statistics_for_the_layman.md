@@ -1,5 +1,5 @@
 ---
-title: "Statistics for the layman"
+title: "Probability and Statistics"
 categories:
   - statistics
 tags:
@@ -9,11 +9,13 @@ image:
   thumbnail: https://c0.wallpaperflare.com/preview/409/294/431/bone-casino-chance-chopping.jpg
 
 ---
-standford cheat sheet link
+Link to different resources for probability and statistics:
 
-[1](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+[Probability using R](https://rstudio-pubs-static.s3.amazonaws.com/523785_e9afb5aafb2f4fa19c4f8c01553d26ad.html#data_science:_probability)<br>
+[Stat100 Final Cheat Sheets](http://people.fas.harvard.edu/~mparzen/stat100/Stat%20100%20Final%20Cheat%20Sheets%20-%20Google%20Docs%20(2).pdf)<br>
+[Stat100 Practice problem](https://projects.iq.harvard.edu/stat110/strategic-practice-problems)<br>
+[Introduction to Probability by Joe Blitzstein and Jessica Hwang](http://probabilitybook.net)<br>
+[Statistics Cheet Sheet](https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)<br>
 
-[2](https://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 
 
-Welcome to statistics
