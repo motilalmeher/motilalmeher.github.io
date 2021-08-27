@@ -1,5 +1,6 @@
 ---
 title: Stories
+sub_title: "We write to taste life twice, in the moment and in retrospect." - Nnais Nin
 layout: collection
 permalink: /stories/
 collection: stories
