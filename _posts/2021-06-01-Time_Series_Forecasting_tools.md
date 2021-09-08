@@ -12,11 +12,13 @@ image:
 
 List of Time Series Forecasting tools
 
-[6/1, 5:40 PM](https://www.kaggle.com/c/walmart-sales-forecasting/overview)
+[walmart-sales-forecasting](https://www.kaggle.com/c/walmart-sales-forecasting/overview)
 
-[6/1, 5:43 PM](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/overview)
+[walmart-recruiting-sales-in-stormy-weather](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/overview)
 
-[6/1, 5:46 PM](https://www.kaggle.com/c/m5-forecasting-uncertainty)
+[m5-forecasting-uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)
 
-[6/1, 5:47 PM](https://www.kaggle.com/c/m5-forecasting-accuracy)
+[m5-forecasting-accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy)
+
+[Time series forecasting for 2000 different products](https://stats.stackexchange.com/questions/389291/strategies-for-time-series-forecasting-for-2000-different-products)
 
