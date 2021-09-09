@@ -22,3 +22,7 @@ List of Time Series Forecasting tools
 
 [Time series forecasting for 2000 different products](https://stats.stackexchange.com/questions/389291/strategies-for-time-series-forecasting-for-2000-different-products)
 
+https://eng.uber.com/neural-networks-uncertainty-estimation/
+
+https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037affb5b74fec20a/2017/07/Laptev_Nikolay_ISF2017.pdf
+
