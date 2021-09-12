@@ -28,3 +28,9 @@ https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037aff
 
 https://eng.uber.com/m4-forecasting-competition/
 
+https://eng.uber.com/forecasting-introduction/
+
+M3 and M4 competition
+
+Duke university https://people.duke.edu/~rnau/Mathematical_structure_of_ARIMA_models--Robert_Nau.pdf
+
