@@ -26,3 +26,5 @@ https://eng.uber.com/neural-networks-uncertainty-estimation/
 
 https://forecasters.org/wp-content/uploads/gravity_forms/7-c6dd08fee7f0065037affb5b74fec20a/2017/07/Laptev_Nikolay_ISF2017.pdf
 
+https://eng.uber.com/m4-forecasting-competition/
+
