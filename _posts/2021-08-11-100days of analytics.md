@@ -23,5 +23,4 @@ I am tired of finding good consolidated resources to develop wide and shallow pr
 5. Develop Data literacy skill.
 6. Develop Story telling skill.
 
-## Links to each day's post:
-1. 
+## List of all the posts:
