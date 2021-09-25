@@ -11,6 +11,4 @@ https://eng.uber.com/monitoring-data-quality-at-scale/
 https://eng.uber.com/freight-markov/ pricing algorithm
 https://qphs.fs.quoracdn.net/main-qimg-a34314193b854b44ca899f79878df800
 
-https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people?top_ans=1866531 </br>
-https://mlwhiz.com/blog/2017/02/05/ml_algorithms_for_data_scientist/ </br>
-https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b </br>
+https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
