@@ -2,8 +2,8 @@
 title: "Statistics"
 last_modified_at: 2021-10-19
 image: 
-  path: https://miro.medium.com/max/1400/0*NDTRzzIEp8OSN7oV.png
-  thumbnail: https://miro.medium.com/max/1400/0*NDTRzzIEp8OSN7oV.png
+  path: http://www.statisticsfromatoz.com/uploads/7/3/2/1/73216723/full-cartoon_orig.png
+  thumbnail: http://www.statisticsfromatoz.com/uploads/7/3/2/1/73216723/full-cartoon_orig.png
 ---
 
 ## Statistics questions and answers
