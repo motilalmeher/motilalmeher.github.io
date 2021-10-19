@@ -1,5 +1,5 @@
 ---
-title: "Statistics Interview Questions and Answers"
+title: "Statistics"
 last_modified_at: 2021-10-19
 image: 
   path: https://miro.medium.com/max/1400/0*NDTRzzIEp8OSN7oV.png
