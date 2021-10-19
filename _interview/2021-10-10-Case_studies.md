@@ -1,5 +1,5 @@
 ---
-title: "Data Science Case Interview Questions and Answers"
+title: "Data Science Case"
 last_modified_at: 2021-10-19
 image: 
   path: https://memegenerator.net/img/instances/72868507.jpg
