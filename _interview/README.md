@@ -1,4 +1,14 @@
 This subfolder is dedicated for interview only.
+Linkedin:
+https://www.linkedin.com/in/ntnaggarwal/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAOpidsBvZgJni_7v_0L6h13DN4EgsT3u8w
+
+https://www.linkedin.com/in/danleedata/
+
+https://www.linkedin.com/in/raunakbhandari/
+
+https://www.linkedin.com/in/eczachly/
+
+
 
 https://www.google.com/amp/s/hbr.org/amp/2015/07/setting-the-record-straight-on-switching-jobs
 [Data Monk](http://datamonk.com/)
