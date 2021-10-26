@@ -8,6 +8,12 @@ https://www.linkedin.com/in/raunakbhandari/
 
 https://www.linkedin.com/in/eczachly/
 
+https://github.com/motilalmeher/ml-interview
+
+https://huyenchip.com/ml-interviews-book/
+
+https://github.com/chiphuyen/chiphuyen
+
 
 
 https://www.google.com/amp/s/hbr.org/amp/2015/07/setting-the-record-straight-on-switching-jobs
