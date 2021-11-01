@@ -6,4 +6,4 @@ image:
   thumbnail: /assets/images/prob.png
 ---
 
-## Probability Interview Questions and Answers
+How should you prepare for probability questions for a data science interview?
