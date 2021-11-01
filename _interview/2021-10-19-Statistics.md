@@ -6,7 +6,7 @@ image:
   thumbnail: /assets/images/statistics.png
 ---
 
-How should I prepare for statistics questions for a data science interview?
+How should you prepare for statistics questions for a data science interview?
 
 https://www.pinterest.com/pin/533535887078803662/
 
