@@ -2,8 +2,8 @@
 title: "Probability"
 last_modified_at: 2021-10-19
 image: 
-  path: https://media.makeameme.org/created/that-moment-when-5ace3f.jpg
-  thumbnail: https://media.makeameme.org/created/that-moment-when-5ace3f.jpg
+  path: /assets/images/prob.png
+  thumbnail: /assets/images/prob.png
 ---
 
 ## Probability Interview Questions and Answers
