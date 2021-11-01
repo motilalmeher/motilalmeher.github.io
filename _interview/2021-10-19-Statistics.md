@@ -2,8 +2,8 @@
 title: "Statistics"
 last_modified_at: 2021-10-19
 image: 
-  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveUiX5yUzgfRYb5OeZrxRVD7iN9GhWoQa_drQsrqc2QkXNWgbeu_KTS77wbW6fGuP71E&usqp=CAU
-  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveUiX5yUzgfRYb5OeZrxRVD7iN9GhWoQa_drQsrqc2QkXNWgbeu_KTS77wbW6fGuP71E&usqp=CAU
+  path: /assets/images/statistics.png
+  thumbnail: /assets/images/statistics.png
 ---
 
 ## Statistics questions and answers
