@@ -12,3 +12,6 @@ https://eng.uber.com/freight-markov/ pricing algorithm
 https://qphs.fs.quoracdn.net/main-qimg-a34314193b854b44ca899f79878df800
 
 https://www.linkedin.com/pulse/40-days-ai-steve-nouri/
+
+Real-time machine learning: challenges and solutions;
+https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
