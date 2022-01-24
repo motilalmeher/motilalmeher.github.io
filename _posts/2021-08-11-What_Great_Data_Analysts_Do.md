@@ -1,7 +1,7 @@
 ---
 title: "What Great Data Analysts Do?"
 categories:
-  - Machine Learning, Algorithm, Analytics
+  - Analytics
 tags:
 last_modified_at: 2021-08-11
 image: 
