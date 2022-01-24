@@ -45,3 +45,61 @@ The main trait of machine learning is building systems capable of finding patter
 To identifying potential churners, machine learning algorithms can do a great job here. They reveal some shared behavior patterns of those customers who have already left the company. Then, ML algorithms check the behavior of current customers against such patterns and signal if they discover potential churners.
 
 Subscription-based businesses leverage ML for predictive analytics to find out which current users aren’t fully satisfied with their services and address their issues when it’s not too late.
+
+## To-predict-churn-you-shouldnt-predict-churn. ##
+
+For every subscription business, there exists a threshold of user inactivity after which it is very difficult, if not impossible, to win that user back. We have also found that building models to predict this point of inactivity yields more accurate leading indicators of churn than building models to predict actual churn itself.
+
+Importantly, using inactivity as a proxy in our churn models still results in predicting true churn.
+
+Inactivity and its Relationship to True Churn
+We constructed a churn model using inactivity as the target label.We first wanted to validate that the inactivity prediction model accurately predicted true churn. The plot below validated this assumption.
+
+Why is predicting using inactivity better than using actual cancellations?
+We found that inactivity serves as a  better target label than actual churn, because the time a user actually cancels their subscription is a highly noisy variable (e.g. when they remember they have a subscription they are not using) while understanding a user’s engagement can be explicitly measured.
+
+To demonstrate this phenomenon, the plot below examines the churn rate of a set of users as a function of the number of days of inactivity.
+
+The plot shows that the rate of churn is fairly constant after 40 days of being inactive. In other words, once a user is inactive for 40 days it is merely a matter of chance when they will actually unsubscribe from the product. Thus training a model to predict whether a user will be inactive for 40 days can be a more accurate indicator of churn.
+
+
+
+
+One of the initial steps in creating a predictive logistic regression model is to choose a period for for the independent variables , also called the predictors and the dependent or target variable. For that we need to define the observation and performance period window.
+
+Observation Period
+
+It is the period from where independent variables /predictors come from. In other words, the independent variables are created considering this particular period only. A period is also called a window.
+
+Performance Period
+
+This is the period from where dependent variable /target come from. It is the period following the observation window.
+
+
+Therefore, in the current study, following Buckinx and Van
+den Poel (2005), the time window of the data has been split into
+two subperiods: a ‘‘calibration period’’ and a ‘‘prediction
+period.’’ Consequently, an ‘‘inactive’’ customer is defined as
+a customer who has been active during the calibration period
+by having at least one purchase but shows no activity during the
+prediction period.
+
+splitting time for churn modeling purposes is not trivial
+and involves certain challenges—such as duration of prediction
+period.
+
+. The difficulty being that prediction period duration
+should be set in a way that it (1) captures activity/inactivity
+of customers with a fairly long interpurchase time and (2) captures defection of those with a short average interpurchase time
+as soon as possible
+
+ To avoid the above-mentioned problems, the
+duration of prediction period in this study is constructed in two
+steps: (1) first, we sort customers in ascending order based on
+their average interpurchase times and (2) the prediction period
+is set to be approximately equal to the average interpurchase
+time of the last customer in 99% mass of the sorted customer
+base. This approach enables us to avoid prediction periods
+being too long (and failing to detect churn long after it has happened), or too short (and misclassifying customers with relatively longer interpurchase time as ‘‘churners’’)
+
+https://www.analyticsvidhya.com/blog/2020/10/the-complete-guide-to-checking-account-churn-prediction-in-bfsi-domain/
