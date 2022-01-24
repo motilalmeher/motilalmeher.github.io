@@ -24,4 +24,4 @@ A frequent lament among business leaders is, “Our data science group is useles
 6. Develop Story telling skill.
 
 ## List of all the posts:
-1. [What Great Data Analysts Do?](analytics/What_Great_Data_Analysts_Do/)
+1. [What Great Data Analysts Do?](https://mldataliteracy.com/analytics/What_Great_Data_Analysts_Do/)
