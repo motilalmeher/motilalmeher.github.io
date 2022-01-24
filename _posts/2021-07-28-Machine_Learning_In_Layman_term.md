@@ -1,7 +1,6 @@
 ---
 title: "ML in Layman's terms"
 categories:
-  - Machine Learning, Algorithm
 tags:
 last_modified_at: 2021-07-28
 image: 
