@@ -13,7 +13,7 @@ Statistician and Machine Learning engineer roles have in common is that they bot
 
 A frequent lament among business leaders is, “Our data science group is useless.” And the problem usually lies in an absence of analytics expertise. Statisticians and machine learning engineers are narrow-and-deep workers — the shape of a rabbit hole, incidentally — so it’s really important to point them at problems that deserve the effort. If your experts are carefully solving the wrong problems, your investment in data science will suffer low returns.To ensure that you can make good use of narrow-and-deep experts, you either need to be sure you already have the right problem or you need a wide-and-shallow approach to finding one. Wide-and-shallow experts means, I am talking about analyst.
 
-I am tired of finding good consolidated resources to develop wide and shallow problem-solving skills (Industry-wise and function-wise). So I in this 100 days series I will consolidate all my learning, where I will discuss different business use cases  industry-wise(**BFSI, Retail, e-Commerce, Media, Health Care, and Pharma, etc...**) and  function-wise(**Customer analytics, Marketing analytics, Operation analytics, Sales analytics, Digital analytic, etc...**) and analytics approach to solve those problems using different business concepts and tools.
+ To develop wide and shallow problem-solving skills (Industry-wise and function-wise), I will consolidate all my learning, where I will discuss different business use cases  industry-wise(**BFSI, Retail, e-Commerce, Media, Health Care, and Pharma, etc...**) and  function-wise(**Customer analytics, Marketing analytics, Operation analytics, Sales analytics, Digital analytics, Supply chain analytics etc...**) in this 100 days series.
 
 ## The objective of this series:
 1. Understarnd the use of Analytics in solving business problem.
@@ -24,3 +24,4 @@ I am tired of finding good consolidated resources to develop wide and shallow pr
 6. Develop Story telling skill.
 
 ## List of all the posts:
+[What Great Data Analysts Do?](_posts/2021-08-11-What_Great_Data_Analysts_Do.md)
