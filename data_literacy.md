@@ -1,7 +1,7 @@
 ---
-title: Data Literacy
+title: ML System Design
 layout: collection
-permalink: /data_literacy/
+permalink: /ML_System_Design/
 collection: data_literacy
 entries_layout: grid
 ---
