@@ -72,7 +72,7 @@ Self driving car: https://www.coursera.org/specializations/self-driving-cars
 https://www2.deloitte.com/us/en/insights/industry/financial-services/natural-language-processing-investment-management.html
 https://www.bain.com/insights/how-machine-learning-and-natural-language-processing-produce-deeper-survey-insights/
 https://stats.stackexchange.com/questions/344705/product-demand-forecasting-for-thousands-of-products-across-multiple-stores
-
+https://flowingdata.com/
 
 shape image by adding parameter to url
 https://docs.kontent.ai/reference/image-transformation
