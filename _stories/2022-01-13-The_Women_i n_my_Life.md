@@ -14,8 +14,6 @@ I am writing this on 8th March 2022, International Women’s Day. There are some
 My MOM...
 
 She sacrificed a lot for me and my family.
-.
-.
-.
-I tried to write but I fall sort of words to articulate my grtitude for everything you have done in my life.
+
+I tried to write but I fall sort of words to articulate my gratitude for everything she has done in my life.
 
