@@ -10,20 +10,20 @@ image:
 ---
 The scariest things that haunt me aren’t ghosts.
 
-Well. I come from a broken family. My parents are not separated. Since I’m from India where divorce is taboo, they are still living under the same roof just like other broken families around us! I get jealous seeing those few happy families around me.
-Now coming to my childhood, my parents love me and my brother so much. They love each other but they fight frequently and they behave completely differently. My dad is an alcoholic. He blames my mom for everything. 
-My mom also does the same to my dad. Since my school days, my parents are fighting regularly. Both abuse each other. The abuse is physical, mental, and emotional! When my dad goes to beat my mom I go in between 
-and get all the beatings from my dad. We are both children who suffer from both. I had no one to share all my sufferings and cry! The feeling of being lonely is terrible! 
+Well... I come from a broken family. My parents are not separated. Since I’m from India where divorce is taboo, they are still living under the same roof just like other broken families around us! Now coming to my childhood, my parents loved me and my brother so much and they loved each other too.
 
-My mom and dad taught us many good things interms of disipline, moral values, ethics. They are also follwing everything individually but together they are worst. Even my dad was my hero.
-He was the person I look upto and still I admire my dad's story and I will. He had induced that fire inside me which that was pure and enough to continue. But I hate my dad current behaviour.
-He is careless, alcohlic who don't even think about his family and me, my brother and mom are bearing and taking care of his all irresponsible acts and mistakes. 
-When I was in hostle we are away from all these things and we genreally dont visit our house for long period of time in vacation also. But in this pandemic its teribble feeling witness all these things again. 
+When I was in school I don't know how but he gets into alcoholism. Regularly he was drinking and kept fighting at home. Actually, he was a good person, and still, he is. Even he was my hero and still, he is. He loves me unconditionally. He was active/energetic, good at his work, in sports, and was doing everything for his family. But when he was drunk, he blames my mom for everything and abuse her physically, mentally, and emotionally. He always blamed my mom's family(The best family I have ever seen) and never wanted to listen to a single word about his there family. It was something very difficult for us to ignore for his many good things. But we were ignoring that behavior. We loved him for who he was. We know it’s not really “him” — it’s the alcohol, and we’re hopeful the horrors will all end soon. That hopeful ending is what keeps us going, even when the process is confusing and distracting, and sad.
 
-We both brothers are mentally strong we dont let all these things affect our studies, personality, behaviour, friendship. Still we both have anger issues which even I trys to change consiously, I can not...Its difficult.
-We dont celebrate much. Every day is same for us. We are feeling no one are there to care us except my mom.
+But they consciously did not involve us in those matters. They loved us very much and still do. They wanted us to focus on our studies and extracurriculars. And we were also. Surprisingly we were not thinking much about that and never felt scared. It was like we both brothers were a bit comfortable with all those choas and did not let all those things affect us. The same story is still going on . He still drinks and fights and without alcohol behaves normally.They were good as parents but worst as husband-wife. I don't know whether 'worst' is the right word or not but, they still love each other and also fight brutally with each other. They continue to go around and around the vicious cycle.
 
-I can not trust people who show care for me, I just completly avoid them. I avoid girls for my anger issues. I can not think about dating someone. I dont have control over all these things.
+I was thinking as dad loves me more than anyone he will change as we grow otherwise I would talk to him and he would definitely change.  But I was wrong. He doesn't listen to me he doesn't even talk to me. He loves me the same way but I don't. Actually, I can not. I started to hate him. And that feeling started affecting me in my relationship with other family members and friends. I think I bit lost my smile. I don't want to celebrate my success too. He even starts beating me if I come in between him and my mom when they are fighting. Till when this horror will continue I can not even imagine. We both children are suffering. I had no one to share all my sufferings and cry! The feeling of being lonely is terrible! It is difficult to take care of him after all irresponsible acts. 
+
+But they made us really really ambitious, competitive, and disciplined people. I can not ignore this. We brothers are really really competitive, disciplined with good moral values as compared to our friends. My mom and dad taught us many good things in terms of discipline, moral values, and ethics. They are also following everything individually but together they are the worst. They had induced that fire inside us which is enough to continue to achieve big dreams. 
+
+When I was in the hostel I was away from all these things and we generally did not visit our house for a long period of time on vacation also. But in this pandemic, it's a terrible feeling to witness all these things again. 
+
+We both brothers are mentally strong we don't let all these things affect our studies, personality, behavior, friendship...etc. Still, I have anger issues that I am trying to change.  I am feeling no one is there to care for us except my mom.
+
 Children from a broken family are often misunderstood. Judged as being different, some people taught they are difficult to deal with. Though statistically speaking, 
 children who came from a broken family manifest disturbing behaviors growing up. Though it takes time, some of them managed to prove themselves that being in a broken family is a blessing, not a curse.
 
@@ -40,9 +40,9 @@ They are open-minded. Being in a dysfunctional family opens many options and opp
 
 They know how to laugh and have a good time. They find ways to be happy; they don’t just drown with the fact that they came from a broken family and that they don’t deserved to be happy. Some are putting masks to hide their true feelings, others are exposing themselves to show that life doesn't end there and they don’t need a complete family to be happy.
 
-
 They will make sure their children will be happy. They will make sure they’re going to marry the person who accepts who they are and will work things out to keep the family intact. They will make sure their children will never feel unloved and unwanted. They will become a better parent. They will never do anything that could hurt their future children and they don’t want them to feel the same mess again.
+
 They value simple things in life. Appreciating little things in life makes them happy. They appreciate simple over the grandest things. They know material things cannot give them happiness. A person who came from a broken family can identify people in need and they know how to make them feel better. Their purpose in life is not being the best. They measure their fulfillment by helping others and they feel blessed, that is all that matters.
 
 
-But as compare to my friends I think I have more energy I can thik like a child who don't affraid to have many dreams. Self-love is more important than anything else. I will conqure this world one day.
+One day I will conqure this world....
