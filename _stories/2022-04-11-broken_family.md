@@ -8,7 +8,7 @@ image:
   path: https://miro.medium.com/max/1200/0*_hw22o8VyTuYMouN.jpg
   thumbnail: https://miro.medium.com/max/1200/0*_hw22o8VyTuYMouN.jpg
 ---
-The scariest things that haunt me aren’t ghosts.
+The scariest things that haunt me aren’t ghosts...
 
 Well... I come from a broken family. My parents are not separated. Since I’m from India where divorce is taboo, they are still living under the same roof just like other broken families around us! Now coming to my childhood, my parents loved me and my brother so much and they loved each other too.
 
@@ -45,4 +45,4 @@ They will make sure their children will be happy. They will make sure they’re 
 They value simple things in life. Appreciating little things in life makes them happy. They appreciate simple over the grandest things. They know material things cannot give them happiness. A person who came from a broken family can identify people in need and they know how to make them feel better. Their purpose in life is not being the best. They measure their fulfillment by helping others and they feel blessed, that is all that matters.
 
 
-One day I will conqure this world....
+One day I will conqure this world...
