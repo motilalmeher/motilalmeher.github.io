@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2022-04-19
 image: 
-  path: https://i1.wp.com/www.womensissuescentre.com/wp-content/uploads/2020/09/Women_workplace.jpg?w=1200&ssl=1
-  thumbnail: https://i1.wp.com/www.womensissuescentre.com/wp-content/uploads/2020/09/Women_workplace.jpg?w=1200&ssl=1
+  path: https://njaconline.org/wp-content/uploads/2020/12/black-women-stat-2.jpg
+  thumbnail: https://njaconline.org/wp-content/uploads/2020/12/black-women-stat-2.jpg
 ---
 This is the note I am writing for myself. When I will feel lost and distracted, I can take a look at this. 
 
