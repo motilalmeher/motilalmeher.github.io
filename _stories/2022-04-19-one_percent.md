@@ -2,7 +2,7 @@
 title: "Be part of the one percent"
 categories:
 tags:
-last_modified_at: 2022-04-19
+last_modified_at: 2022-03-08
 image: 
   path: https://njaconline.org/wp-content/uploads/2020/12/black-women-stat-2.jpg
   thumbnail: https://njaconline.org/wp-content/uploads/2020/12/black-women-stat-2.jpg
