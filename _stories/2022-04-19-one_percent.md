@@ -9,7 +9,7 @@ image:
 ---
 This is the note I am writing for myself. When I will feel lost and distracted, I can take a look at this. 
 
-I am writing here because it is easy to access for me than my notes. 
+I am writing here because it is easy to access for me than my notes and if I can articulate it I can achieve it.
 
 **Note:** Do not read it...
 
