@@ -1,6 +1,7 @@
 ---
 title: "Be part of the one percent"
 categories:
+  - life
 tags:
 last_modified_at: 2022-03-08
 image: 
