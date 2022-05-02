@@ -1,5 +1,5 @@
 ---
-title: "What Great Data Analysts Do?"
+title: "Supply Chain Analytics"
 categories:
   - Analytics
 tags:
