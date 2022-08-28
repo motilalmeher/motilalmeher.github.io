@@ -386,10 +386,96 @@ Your confidence must be built from the inside out because if you build it on com
 
 
 - How do you know someone's true personality?
+https://qr.ae/pvbJ7B
+https://qr.ae/pvbJXf
+
+The only thing you can do is take a chance and spend time with them. The more time you spend with a person, the more you interact, the better you get to know them. It's that simple. There are no shortcuts.
+
+https://qr.ae/pvbJ8Y
+https://qr.ae/pvbJ1p
+https://qr.ae/pvbJ8a
+
+
+
+
+
+
+
 - The Secret To Becoming an Enormously Productive Person Who Still Has a Vibrant Social Life?
-- Ways to Make More Friends?
-- Why You Don’t Have To Sacrifice Your Social Life To Be More Productive.?
+
+I am convinced that the reason productive people with social lives exist and flourish has little to do with their genetic wiring and usage of cognitive enhancing stimulants. When you ask people who seem to be taking on the world and actually winning the battle, they don't seem to piss, moan and groan about the obstacles that come along the way during their daily pursuit — in fact, most of the people welcome the challenges.
+
+the ability to routinize certain deep work activities for maximum output and diminish shallow work activities for optimal time allowance.
+
+https://medium.com/swlh/the-secret-to-becoming-an-enormously-productive-person-who-still-has-a-vibrant-social-life-771f75bd08bf
+Reason 1: Optimizing your schedule
+In our daily lives, we are required to work for 8 long hours and we generally find ways to fill said hours with the appropriate amount of work. This work includes:
+
+Meetings.
+Sending and receiving what seems like endless emails.
+Preparing various projects with outlines, tables, and projections.
+Cold-calling potential customers.
+When we take inventory of the work above, we can see this work isn't necessarily work that is going to compound into meaningful, creative and industrious change in our daily lives. To borrow from Cal Newport, author of Deep Work, this work is going to be referred to as shallow work:
+
+Shallow work: Non cognitively demanding, logistical style tasks often performed whilst distracted. These efforts tend not to create much new value in the world and are easy to replicate.
+
+Throughout our day, we are exposed to the onslaught of shallow work that does nothing but drain our willpower reserves, stifle our creativity, and increase our distraction on work that would be way more productive and meaningful.
+
+On the other hand, there is deep work:
+
+Deep work: the ability to focus without distraction on a cognitively demanding task. Results are valuable and difficult to replicate.
+This is the type of work that one needs to complete in order to exponentially progress through their tasks and responsibilities throughout the day. This type of work would include:
+
+The concise outline and completion of an in depth blog article.
+Research and implementation of specific coding language in order to build the next best app.
+Painting of today's Mona Lisa
+
+When you can cancel out much of the external noise and work on something that takes a lot of cognitive prowess and demand, you are able to streamline creativity and productivity which results in completing tasks more efficiently.
+
+
+Reason 2: Routine, routine, routine
+
+Most creatives think that spontaneity is key for developing creativity in their work and lives. If you are exposed to different stimuli throughout the day, you are going to have more things to draw off of and thus create compelling and awe inspiring work.
+
+This couldn't be further from the truth in terms of being productive with your creative work, however.
+
+Individuals who have carved out opportunities with their schedule do so by maximizing their productive output and also by routinizing various rituals with their daily pursuits.
+
+"The secret of your future is hidden in your daily routine."
+
+— Mike Murdoch
+
+By routinizing various low-level decisions throughout your day, you are conserving your cognitive energy levels:
+
+Select the clothes you are going to wear for a specific day the night before when you are about to go to sleep.
+Little things by getting the same cup of black coffee from the same coffee shop — so as to not waste time and energy thinking of what to get (or better yet have a timed-coffee maker brew a fresh cup for you every morning).
+Routinize your morning breakfast for expedient nourishment and fuel.
+Write your blog articles, film your Youtube videos, record your podcasts etc at specific times during your day in order to stay consistent and block off this productive time.
+
+Reason 3: Make the right plan of attack
+
+On the contrary, what we are dealing with here is really just a concise and clear guided plan that will help us map out our daily objectives. I will use my daily plan as of recent as a launching point for anyone looking to develop their own.:
+
+Brainstorm 15 article ideas for my 5 Medium articles this week.
+Finish reading the last chapter of the book I am currently reading.
+Email freelance contractor about receiving newest outline for next article.
+Spend 1 hour doing HIIT boxing workout practicing body-shot punches on the heavy bag.
+Now, during the course of my daily objectives, I am still going to be met with working at a fine dining restaurant full-time, meeting and developing the relationship with my girlfriend and finding leisure time to recreate with friends.
+
+Only in completing the tasks listed in my plan above can I juggle around the hours in the day to achieve such goals.
+
+Many of the great joys in life seem like they are too far outside our reach because there just isn't enough time in the day to accomplish anything. I assert that this is false and we have been tricked into thinking this by a lack of understanding our own capabilities in a given day.
+
+A deliberate focus on performing meaningful and deep work activities can lift many time restraints we experience on a daily basis.
+Our days need to be routinized in order to filter out any low-level activity that may be straining our cognitive energy levels as well as our time resources.
+"If you fail to plan, you plan to fail." It's cliche, I know but it's the truth. If you aren't going into your day with a specific guide of what needs to be accomplished, you could find yourself walking in place rather than moving forward.
+
+
 - 10 Small Things You Can Do To Improve Your Social Life?
+ https://medium.com/@ossiana.tepfenhart/10-small-things-you-can-do-to-improve-your-social-life-69c6f96d783a
 - How Do I Rebuild a Social Life From Nothing?
+https://qr.ae/pvbJN9
+https://medium.com/hello-love/how-do-i-rebuild-a-social-life-from-nothing-b1052e3a6e07
 - How to create the meaningful connections in a disconnected world?
+https://www.psychologytoday.com/us/blog/connect-the-dots/202208/creating-meaningful-connections-in-disconnected-world
 - When to speak up when not to?
