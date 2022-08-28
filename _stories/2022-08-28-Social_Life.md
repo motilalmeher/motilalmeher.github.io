@@ -479,3 +479,7 @@ https://medium.com/hello-love/how-do-i-rebuild-a-social-life-from-nothing-b1052e
 - How to create the meaningful connections in a disconnected world?
 https://www.psychologytoday.com/us/blog/connect-the-dots/202208/creating-meaningful-connections-in-disconnected-world
 - When to speak up when not to?
+
+
+
+https://medium.com/hello-love/the-one-thing-men-want-more-than-sex-98a801833e39
