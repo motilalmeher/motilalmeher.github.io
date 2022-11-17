@@ -2,6 +2,6 @@
 title: Data Science
 layout: collection
 permalink: /Data Science/
-collection: data_science
+collection: posts
 entries_layout: grid
 ---
