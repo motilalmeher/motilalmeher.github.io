@@ -1,0 +1,96 @@
+---
+title: "What data scientists need to know about DevOps?"
+excerpt: "Become an analytical alchemist in 100 days. Here, I will explained the analytics using different business use case."
+categories: DevOps, MLOps
+tags:
+last_modified_at: 2022-02-25
+image: 
+  path: https://miro.medium.com/max/1400/1*UJ7DBUYOKm6dPMJkANe88g.png
+  thumbnail: https://miro.medium.com/max/1400/1*UJ7DBUYOKm6dPMJkANe88g.png
+---
+
+With the rapid evolution of machine learning (ML) in the last few years, it’s become trivially easy to begin ML experiments.
+Thanks to libraries like scikit-learn and Keras, you can make models with a few lines of code.
+
+But it’s harder than ever to turn data science projects into meaningful applications, like a model that informs team decisions or becomes part of a product.
+The typical ML project involves so many distinct skill sets that it’s challenging, if not outright impossible, for any one person to master them all — so hard,
+the rare data scientist who can also develop quality software and play engineer is called a unicorn!
+
+As the field matures, a lot of jobs are going to require a mix of software, engineering, and mathematical chops.
+
+## What data scientists need to know about DevOps?
+### 1. Friction between developers and operations
+In the good old 90s, software was developed using the WaterFall model. 
+People used to sit together in lengthy (and often pointless) discussions, chart out design, code, test, and finally, deliver. 
+Obviously this process was really slow for fast moving business world. So to address this problem, came agile methodology. 
+It introduced faster delivery time in the form of user stories and "sprint" sessions, and small, continuous (and incremental) development.
+
+The problem with both was the increasing differences between Developers and Operations people. 
+The developers were responsible for coding and developing features. The operators were responsible for setting up servers and integration environments, 
+and testing the code. Sounds perfect, different departments, different verticals, the corporate style.
+
+What actually happened was that developers often tested their code in their own environment (their laptop for example). 
+The operations folks then had nightmares matching the production compatibility (lots of servers) with the development environment. 
+It is like the game worked in your laptop, so you are assuming it must work in all other system (desktop, servers, etc.) of similar configuration.
+Insane right? Unfortunately that's how we worked so far.
+
+![Usual battle between Developers and IT](https://miro.medium.com/max/1208/1*lSkCi_qyxIeNtSF1o71NFQ.png)
+
+Since a complete setup had so many moving parts, diagnosing a problem was a nightmare. 
+This called for lots of unplanned work (weekend overtime without pay) for operations folks in executing a delivery. 
+The developers also got stalled with their progress, as they had to wait for previous problems to be resolved before they added new changes. 
+Even worse, since so many developers committed so many changes, it became impossible to find out which changes from which end (operations or developers?) are causing the problem. The worst case scenario (which unfortunately was the most common) was the constant infighting between developers and operations, with managers shouting their throat out.
+
+To address this problem, and to increase the comradeship between developers and operations, DevOps came into picture.
+
+### 2. DevOps as the Solution?
+DevOps is a term that is used to refer to a set of proven practices that facilitate collaboration and communication of both development and operations alike.
+By adopting DevOps, organizations can develop and deploy enterprise applications quickly and seamlessly.
+DevOps combines cultural philosophies, tools, practices, etc. to increase an organization's agility in the software development process.
+It enables an organization to deliver applications and services at increased velocity.
+
+Right now, with increasing adoption of containers, virtualization, and sophisticated tools enabling faster delivery, 
+DevOps in practice has became easier. Now, with click of a button, developers can test their code in a common setup (no more laptops). 
+With containers, operations folks can deploy it anywhere. With monitoring tools, finding the bottlenecks has become much much easier. 
+So all these principles mentioned above, they have become a reality thanks to technology.
+
+Think of DevOps as a modernization of the great IT factory. Just like in a modern factory, if an order is placed, 
+the raw materials roll in the conveyor belt, and you get the finished product on their way to the client. In the same way, 
+if client demands certain changes (like those usual banner resizing requests), a developer can quickly code in the changes, test them, 
+and deploy them across all the servers hosting the client's software. 
+This ultra fast deployment (and any tools or technology enabling it) is in essence what DevOps is all about.
+
+### 3. Devops principles
+DevOps happens because of certain tools. Many folks confuse DevOps with toolchains, but it is not. 
+Always remember, DevOps in principle is faster delivery of software. DevOps in practice is using tools to enable just that
+Summary of DevOps Principles:
+- **Collaboration:** Collaboration is the key cultural aspect of DevOps, which brings together Development and Operations teams. Real-time feedback and communication allow teams to make rapid changes to an application while keeping a stable and robust environment.
+- **Incremental release:** Before DevOps, teams had to wait their turn to deploy code. A delay in code release often caused bottlenecks or what is known as “merge hell.” When developers have to wait for a prolonged period of time to contribute code, errors, and incompatibility issues are inevitable.Incremental releases make the development and deployment cycle more flexible. As a result, teams can quickly respond to sudden changes and fix errors and bugs immediately. The primary goal is to prevent bad code from being deployed to the end-user.
+- **Automation:** One of the critical practices of DevOps is automating as much of the software development process as possible. Automating workflows allows developers to focus solely on writing code and developing new features.Anything that can be automated should be automated in a DevOps environment. For example, instead of wasting time on manually checking code for errors, DevOps teams use different software solutions to build and test applications automatically. It is as simple as running a single command to compile the source code to determine if it will work in production.
+- **Versioning:** You need some software to manage different versions of source code. So if some problem arises in some version, you can know exactly which version of the code is causing problem, and you can easily revert back to earlier changes.
+- **Continuous Integration:** It encourages developers to submit their code to a central code repository multiple times a day.By integrating smaller chunks of code regularly, the likelihood of bad code moving down the pipeline and causing service interruptions is significantly reduced. Another critical aspect of Continuous Integration is automated testing. Before developers commit their code to the master branch, they create builds of the project to determine if the new code is compatible with the existing code.
+- **Continious Delivery:** The inspiration behind continuous delivery is constantly delivering valuable software to users and developers more frequently. Applying the principles and practices laid out in this readme will help you reduce risk, eliminate manual operations and increase quality and confidence.
+- **Continuous Monitoring:** Continuous Monitoring builds on the concepts of CI/CD, and it ensures the application performs without issues. DevOps teams implement monitoring technologies and techniques to keep track of how the application is behaving.
+- **Reproducibility:**  Versions of all dependencies in dev and prod are identical. Same technical stack for dev and production environments. Reproducing results by providing container images or virtual machines
+
+
+### 4. Key Metrics of software development and delivery
+In the most resent study on the [state of DevOps](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), 
+the authors emphasized four key metrics that capture the effectivenes of the software development and delivery of elite/high performing organisations:
+- **Deployment Frequency:** How often does your organization deploy code to production or release it to end-users?
+- **Lead Time for Changes:** How long does it take to go from code committed to code successfully running in production?
+- **Mean Time To Restore (MTTR):**	How long does it generally take to restore service when a service incident or a defect that impacts users occurs (e.g., unplanned outage or service impairment)?
+- **Change Failure Rate:**	What percentage of changes to production or released to users result in degraded service (e.g., lead to service impairment or service outage) and subsequently require remediation (e.g., require a hotfix, rollback, fix forward, patch)?
+
+### 5. Challenges in ML powerd application
+In the world of traditional software development, DevOps have made it possible to ship software to production in minutes and to keep it running reliably. DevOps relies on tools, automation and workflows to abstract away the accidental complexity and let developers focus on the actual problems that need to be solved. So why can’t we simply keep doing the same thing for ML?
+
+The root cause is that there’s a fundamental difference between ML and traditional software. **ML is not just code, it’s code plus data.** An ML model, the artifact that you end up putting in production, is created by applying an algorithm to a mass of training data, which will affect the behavior of the model in production.
+While code is carefully crafted in a controlled development environment, data comes from that unending entropy source known as “the real world”. It never stops changing, and you can’t control how it will change.The challenge of an ML process is to create a bridge between code and data in a controlled way.
+
+Since I’ve used the word “data” several times already, you may be thinking of another discipline that could come to our rescue: data engineering. 
+And you would be right! Data engineering does provide important tools and concepts that are indispensable to solving the puzzle of ML in production. 
+In order to crack it, we need to combine practices from DevOps and data engineering, adding some that are unique to MLIn order to crack it, 
+we need to combine practices from DevOps and data engineering, adding some that are unique to ML.
+![Mlops](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ML_Ops_Venn_Diagram.svg/1280px-ML_Ops_Venn_Diagram.svg.png)
+MLOps is the set of practices at the intersection of Machine Learning, DevOps and Data Engineering. We will discuss in details about MLops in next article.
