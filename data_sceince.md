@@ -1,7 +1,7 @@
 ---
 title: Data Science
 layout: collection
-permalink: /Data Science/
+permalink: /Data_Science/
 collection: data_science
 entries_layout: grid
 ---
