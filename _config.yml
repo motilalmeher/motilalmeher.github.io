@@ -93,14 +93,13 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-    
-  stories:
+  project:
     output: true
     permalink: /:collection/:path/
   interview:
     output: true
     permalink: /:collection/:path/
-  data_literacy:
+  datascience:
     output: true
     permalink: /:collection/:path/
   Financial_Literacy:
