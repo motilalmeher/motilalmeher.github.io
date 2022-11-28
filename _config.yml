@@ -116,16 +116,9 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
   - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-      read_time: true
-  - scope:
-      path: "_stories"
-      type: stories
+      path: "_project"
+      type: project
     values:
       layout: post
       read_time: true
@@ -136,8 +129,8 @@ defaults:
       layout: post
       read_time: true
   - scope:
-      path: "_data_literacy"
-      type: data_literacy
+      path: "_datascience"
+      type: datascience
     values:
       layout: post
       read_time: true
