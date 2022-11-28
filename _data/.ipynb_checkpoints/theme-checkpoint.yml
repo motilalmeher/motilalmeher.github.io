@@ -33,9 +33,8 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - Argument_and_opinion.md
   - finance.md
-  - data_sceince.md
+  - datascience.md
   - project.md
   - interview.md
   - about.md

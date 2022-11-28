@@ -34,7 +34,7 @@ google_fonts:
 
 navigation_pages:
   - finance.md
-  - data_science.md
+  - datascience.md
   - project.md
   - interview.md
   - about.md
