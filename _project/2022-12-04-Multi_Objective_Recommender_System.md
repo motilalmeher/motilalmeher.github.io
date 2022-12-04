@@ -1,7 +1,7 @@
 ---
 title: "OTTO – Multi-Objective Recommender System"
 categories:
-  - Data Sceience
+  - Data_Sceience
 tags:
 last_modified_at: 2022-12-04
 image: 
