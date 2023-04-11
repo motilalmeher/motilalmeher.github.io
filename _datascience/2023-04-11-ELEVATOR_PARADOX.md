@@ -37,9 +37,9 @@ The solution for two or more elevators is complicated by conditional probabiliti
 
 Mathematical derivation for more than one elevator problem is complex, so here I use the final result and verify the result by simulation.
 
-<pre>
+```
 P=1/2+(1/2)(1-2p)|1-2p|^(n-1)
-</pre>
+```
 
 where P--> The probability that the First elevator to arrive on the given floor will be going down. p--> Distance from the given floor to bottom floor divided by the distance from the top floor to given floor(The probability that the elevator arriving on your floor moving up when there is a single elevator) n--> Number of elevators.
 
@@ -49,7 +49,7 @@ For seven-story building, the probability that the first elevator to arrive on t
 
 p=(1/6) and n=3 => P=1/2+(1/2)(1-2/6)^3=0.648148
 
-<pre>
+```python
 //python simulation code//
 **********************************************************************************
 
@@ -59,9 +59,9 @@ G=1/6
 n=int(input("How many elevator"))
 totalgoingdown=0
 elevator=np.zeros([n, 4])
-</pre>
+```
 
-<pre>
+```python
 for loop in range(1000000):
     for j in range(n):
         d=random.uniform(0, 1)
@@ -90,16 +90,16 @@ for loop in range(1000000):
             index = k
     if elevator[index,3] == 0:
         totalgoingdown= totalgoingdown+1
-</pre>
+```
  
-<pre>
+```python
 print(totalgoingdown/1000000)
 
 **********************************************************************************
 //simulation result is:// 
   for n=3
   0.648894 (similar to theoretical result)
-</pre>
+```
 
 We imagine that the height of the building is scaled so that floor 1 (the bottom stop of an elevator) is at height 0 and floor 7 (the highest stop of an elevator) is at height 1. Thus, Yogendra’s elevator stop on the second floor is at height G = 1/6.
 
