@@ -37,8 +37,8 @@ The solution for two or more elevators is complicated by conditional probabiliti
 
 Mathematical derivation for more than one elevator problem is complex, so here I use the final result and verify the result by simulation.
 
-```
-P=1/2+(1/2)(1-2p)|1-2p|^(n-1)
+```math
+$$P=1/2+(1/2)(1-2p)|1-2p|^(n-1)
 ```
 
 where P--> The probability that the First elevator to arrive on the given floor will be going down. p--> Distance from the given floor to bottom floor divided by the distance from the top floor to given floor(The probability that the elevator arriving on your floor moving up when there is a single elevator) n--> Number of elevators.
