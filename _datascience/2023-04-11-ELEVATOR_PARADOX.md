@@ -7,9 +7,7 @@ image:
   path: https://media.licdn.com/dms/image/C5112AQHPg2JLvU2y2A/article-cover_image-shrink_600_2000/0/1567273550672?e=1686787200&v=beta&t=EqhhD0UdUlOE-CasNbUrcuFMKGv_RkRH4XsYIVHeIms
   thumbnail: https://media.licdn.com/dms/image/C5112AQHPg2JLvU2y2A/article-cover_image-shrink_600_2000/0/1567273550672?e=1686787200&v=beta&t=EqhhD0UdUlOE-CasNbUrcuFMKGv_RkRH4XsYIVHeIms
 ---
-
-
-## Does it occur to you, when waiting for an elevator, that elevators always seem to be going the wrong way?
+Does it occur to you, when waiting for an elevator, that elevators always seem to be going the wrong way?
 
 Yogendra is a product manager who has an office on the second floor of a seven-story building in Bangalore, and Shobhit(Data scientist) has an office on the sixth floor of same building. The two generally visiting quite a bit because they are college friends.
 
@@ -48,7 +46,7 @@ Probability (P) approaches 1/2 as n(number of elevators), approaches to infinity
 For seven-story building, the probability that the first elevator to arrive on the second floor(Yogendra's office) will be going down when n=3 is,
 
 ```python
-p = (1/6) and n = 3 => P = 1/2 + (1/2)(1-2/6)^3 = 0.648148$$
+p = (1/6) and n = 3 => P = 1/2 + (1/2)(1-2/6)^3 = 0.648148
 ```
 
 ```python
