@@ -1,6 +1,5 @@
 ---
 title: "My Book Shelf"
-layout: My Book Shelf
 ---
 
 <details>
