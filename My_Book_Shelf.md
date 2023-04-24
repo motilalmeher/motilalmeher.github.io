@@ -20,21 +20,21 @@ layout: My Book Shelf
 <details>
 <summary> Books read </summary>
    
-<details>
-  1. <summary> IKIGAI </summary>
+ 1. <details>
+      <summary> IKIGAI </summary>
    
       <ul>
         <li> Author </li>
         <li> Summary </li>
       </ul>
    
-  2. <summary> Show Your Work </summary>
+  2. <details>
+         <summary> Show Your Work </summary>
    
-      <ul>
-        <li> Author </li>
-        <li> Summary </li>
-      </ul>
-    </details>
+         <ul>
+           <li> Author </li>
+           <li> Summary </li>
+         </ul>
 </details>
 
 <details>
