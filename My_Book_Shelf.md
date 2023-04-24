@@ -5,7 +5,7 @@ layout: My Book Shelf
 
 <details>
 <summary> Currently Reading </summary> 
-   1. <details>
+   + <details>
          <summary> Steal Like an Artist </summary>
          <ul>
            <li> Author </li>
@@ -17,7 +17,7 @@ layout: My Book Shelf
 
 <details>
 <summary> Books read </summary>
-  1. <details>
+  + <details>
       <summary> IKIGAI </summary>
       <ul>
         <li> Author </li>
@@ -25,7 +25,7 @@ layout: My Book Shelf
       </ul>
      </details>
 
-  2. <details>
+  + <details>
       <summary> Show Your Work </summary>
       <ul>
         <li> Author </li>
