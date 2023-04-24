@@ -8,6 +8,7 @@ layout: My Book Shelf
    
    1. <details>
          <summary> Steal Like an Artist </summary>
+   
          <ul>
            <li> Author </li>
            <li> Summary </li>
@@ -21,6 +22,7 @@ layout: My Book Shelf
    
   1. <details>
       <summary> IKIGAI </summary>
+   
       <ul>
         <li> Author </li>
         <li> Summary </li>
