@@ -27,6 +27,7 @@ layout: My Book Shelf
         <li> Author </li>
         <li> Summary </li>
       </ul>
+   </details>
    
   2. <details>
          <summary> Show Your Work </summary>
