@@ -14,8 +14,10 @@ layout: My Book Shelf
   </ul>
   </details>
   
-</summary>
- 
+</summary>  
+</details>
+
+<details>
 <summary> Books read
   
   <details>
@@ -33,9 +35,10 @@ layout: My Book Shelf
     <li> Summary </li>
   </ul>
   </details>
-  
 </summary>
+</details>
   
-<summary> To Read </summary>
-
+<details>
+<summary> To Read 
+</summary>
 </details>
