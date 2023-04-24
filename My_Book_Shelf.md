@@ -35,6 +35,7 @@ layout: My Book Shelf
            <li> Author </li>
            <li> Summary </li>
          </ul>
+     </details>
    
 </details>
 
