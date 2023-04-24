@@ -6,12 +6,12 @@ layout: My Book Shelf
 <details>
 <summary> Currently Reading </summary> 
    1. <details>
-      <summary> Steal Like an Artist </summary>
-      <ul>
-        <li> Author </li>
-        <li> Summary </li>
-      </ul>
-   </details>
+         <summary> Steal Like an Artist </summary>
+         <ul>
+           <li> Author </li>
+           <li> Summary </li>
+         </ul>
+      </details>
  
 </details>
 
@@ -23,7 +23,7 @@ layout: My Book Shelf
         <li> Author </li>
         <li> Summary </li>
       </ul>
-   </details>
+     </details>
 
   2. <details>
       <summary> Show Your Work </summary>
@@ -31,7 +31,7 @@ layout: My Book Shelf
         <li> Author </li>
         <li> Summary </li>
       </ul>
-   </details>
+     </details>
 </details>
 
 <details>
