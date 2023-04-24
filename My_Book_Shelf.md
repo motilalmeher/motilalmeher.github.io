@@ -6,6 +6,7 @@ layout: My Book Shelf
 <details>
   
 <summary> Currently Reading
+  <details>
   <summary> Steal Like an Artist </summary>
   <ul>
     <li> Author </li>
