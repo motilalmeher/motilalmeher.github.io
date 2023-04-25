@@ -5,6 +5,7 @@ title: "My Book Shelf"
 <details>
 <summary> Currently Reading </summary> 
    
+----------------------------------------------------------------------------------------------
      <details>
             <summary> Steal Like an Artist </summary>
 
@@ -20,7 +21,8 @@ title: "My Book Shelf"
 
 <details>
 <summary> Books read </summary>
-   
+
+----------------------------------------------------------------------------------------------
       <details>
             <summary> IKIGAI </summary>
 
@@ -29,7 +31,7 @@ title: "My Book Shelf"
               <li> Summary </li>
             </ul>
       </details>
-      -----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
       <details>
             <summary> Show Your Work </summary>
 
