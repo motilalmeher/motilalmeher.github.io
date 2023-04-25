@@ -16,8 +16,6 @@ title: "My Book Shelf"
  
 </details>
 
-----------------------------------------------------------------------------------------------
-
 <details>
 <summary> Books read </summary>
 
@@ -40,9 +38,6 @@ title: "My Book Shelf"
   
 </details>
 
-----------------------------------------------------------------------------------------------
-
-<details>
 <summary> To Read </summary>
    
 </details>
