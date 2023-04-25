@@ -2,11 +2,11 @@
 title: "My Book Shelf"
 ---
 <section>
-<details>
-<summary> Currently Reading </summary> 
+<details class="tree-nav__item is-expandable">
+<summary class="tree-nav__item-title"> Currently Reading </summary> 
    
-     <details>
-            <summary> Steal Like an Artist </summary>
+     <details class="tree-nav__item is-expandable">
+            <summary class="tree-nav__item-title"> Steal Like an Artist </summary>
 
             <ul>
               <li> Author </li>
@@ -16,19 +16,19 @@ title: "My Book Shelf"
  
 </details>
 
-<details>
-<summary> Books read </summary>
+<details class="tree-nav__item is-expandable">
+<summary class="tree-nav__item-title"> Books read </summary>
 
-      <details>
-            <summary> IKIGAI </summary>
+      <details class="tree-nav__item is-expandable">
+            <summary class="tree-nav__item-title"> IKIGAI </summary>
 
             <ul>
               <li> Author </li>
               <li> Summary </li>
             </ul>
       </details>
-      <details>
-            <summary> Show Your Work </summary>
+      <details class="tree-nav__item is-expandable">
+            <summary class="tree-nav__item-title"> Show Your Work </summary>
 
             <ul>
               <li> Author </li>
@@ -38,8 +38,8 @@ title: "My Book Shelf"
   
 </details>
 
-<details>
-<summary> To Read </summary>
+<details class="tree-nav__item is-expandable">
+<summary class="tree-nav__item-title"> To Read </summary>
    
 </details>
 </section>
