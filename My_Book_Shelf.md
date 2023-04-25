@@ -20,7 +20,7 @@ title: "My Book Shelf"
 <summary class="tree-nav__item-title"> Books read </summary>
 
       <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> IKIGAI </summary>
+            <summary class="tree-nav__item-title"> Ikigai </summary>
 
             <ul>
               <li> Author </li>
