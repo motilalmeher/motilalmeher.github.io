@@ -7,6 +7,7 @@ image:
   path: https://www.rappler.com/tachyon/2023/01/shutterstock-digital-money-lending-app.jpg
   thumbnail: https://www.rappler.com/tachyon/2023/01/shutterstock-digital-money-lending-app.jpg
 ---
+List of questions to address:
 
 1. What is Consumer Lending Business and how it works and why this business works?
 2. What is digital consumer lending and how it works and why this business works?
