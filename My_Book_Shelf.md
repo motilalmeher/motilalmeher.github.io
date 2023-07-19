@@ -1471,6 +1471,33 @@ title: "My Book Shelf"
             <li> Summary: </li>
           </ul>
       </details> 
+
+      <details class="tree-nav__item is-expandable">
+          <summary class="tree-nav__item-title"> 160. How to Be the Love You Seek: Break Cycles, Find Peace, and Heal Your Relationships </summary>
+      
+          <ul>
+            <li> Author: Nicole LePera </li>
+            <li> Summary: </li>
+          </ul>
+      </details> 
+
+      <details class="tree-nav__item is-expandable">
+          <summary class="tree-nav__item-title"> 161. How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self  </summary>
+      
+          <ul>
+            <li> Author: Nicole LePera </li>
+            <li> Summary: </li>
+          </ul>
+      </details> 
+
+      <details class="tree-nav__item is-expandable">
+          <summary class="tree-nav__item-title"> 162. How to Meet Your Self: The Workbook for Self-Discovery </summary>
+      
+          <ul>
+            <li> Author: Nicole LePera </li>
+            <li> Summary: </li>
+          </ul>
+      </details> 
     
 
 </details>
