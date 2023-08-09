@@ -6,3 +6,5 @@ This folder is for posts related to data literacy and ML system design.
 4. Representative sampling from streaming data(cs329s L5)
 5. data leakage
 6. Be solution-focused, not architecture/buzzword-focused
+
+ML Simulation: https://simulators.yobee.co.in/
