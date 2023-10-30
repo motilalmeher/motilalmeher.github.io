@@ -12,7 +12,7 @@ image:
    
      <details class="tree-nav__item is-expandable">
             <summary class="tree-nav__item-title"> 
-            [Probability Cheatsheet(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) </summary>
+            [Probability Cheatsheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) </summary>
      </details>
  
 </details>
