@@ -7,13 +7,13 @@ image:
   path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLRhoQ7K4gGvLVujFrFmSLZATr0vm6MyZ4A&usqp=CAU
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLRhoQ7K4gGvLVujFrFmSLZATr0vm6MyZ4A&usqp=CAU
 ---
-## Does it occur to you, when waiting for an elevator, that elevators always seem to be going the wrong way?
+Does it occur to you, when waiting for an elevator, that elevators always seem to be going the wrong way?
 
-Yogendra is a product manager who has an office on the second floor of a seven-story building in Bangalore, and Shobhit(Data scientist) has an office on the sixth floor of same building. The two generally visiting quite a bit because they are college friends.
+Yogendra is a product manager who has an office on the second floor of a seven-story building in Bangalore, and Shobhit(Data scientist) has an office on the sixth floor of the same building. The two generally visit quite a bit because they are college friends.
 
-Shobhit, whenever he uses an elevator to go down to Yogendra's office, found that all the elevators seemed to be going up. Yogendra, on his way up to Shobhit's office, found that elevators were always going down. Two people, in the same building, noticed that the elevators are always moving in opposite directions.  
+Shobhit, whenever he uses an elevator to go down to Yogendra's office, finds that all the elevators seem to be going up. Yogendra, on his way up to Shobhit's office, found that elevators were always going down. Two people, in the same building, noticed that the elevators were always moving in opposite directions.  
 
-At first sight, this created the impression that perhaps elevator cars were being manufactured in the middle of the building and sent them upwards to the roof or downwards to the basement to be dismantled. You can observe the same phenomenon in most tall buildings, and there are no elves involved. Do you see why it occurs?
+At first sight, this created the impression that perhaps elevator cars were being manufactured in the middle of the building and sent upwards to the roof or downwards to the basement to be dismantled. You can observe the same phenomenon in most tall buildings, and there are no elves involved. Do you see why it occurs?
 
 Suppose you are at one of the bottom floors of a building. In this case, a single elevator spends most of its time in the top section of the building. If we start waiting for an elevator at a random point in time, it will thus be more likely that the first elevator approaches from above and continues downwards. The opposite is true if we are at one of the top floors of the building.
 
@@ -21,17 +21,17 @@ Suppose you are at one of the bottom floors of a building. In this case, a singl
 
 ### Idealizing assumptions: 
 
-Suppose each elevator travels independently in continuous cycles from the bottom floor to top and back again, moving with constant speed and with the same average waiting time on each floor. Thus at the time a button is pushed on any floor, we can assume that each elevator is at a random point in its cycle.
+Suppose each elevator travels independently in continuous cycles from the bottom floor to the top and back again, moving with constant speed and with the same average waiting time on each floor. Thus at the time a button is pushed on any floor, we can assume that each elevator is at a random point in its cycle.
 
-## For a single elevator, What is the probability that the elevator arriving on your floor moves up?
+## For a single elevator, What is the probability that the elevator arriving on your floor will move up?
 
 Shobhit, on the sixth floor, has five floors below and one above; therefore the probability is 5/6 that the elevator is below him and will be moving up when it arrives. Yogendra, on the second floor, has five floors above and one below; therefore the probability is 5/6 that the elevator is above him and will reach his floor on its way down.
 
 ## If there is more than one elevator, does the probabilities remain the same?
 
-That is not true at all! Indeed, as the number of elevators approaches infinity the probability that the first elevator to stop on any floor (except the top or bottom floors) is going up (or down) approaches exactly 1/2 -a rather unexpected result. Yet the probability (for, say, the second floor) remains 5/6 for every individual elevator and all elevators are equally likely to be the next to arrive.
+That is not true at all! Indeed, as the number of elevators approaches infinity the probability that the first elevator to stop on any floor (except the top or bottom floors) is going up (or down) approaches exactly 1/2 a rather unexpected result. Yet the probability (for, say, the second floor) remains 5/6 for every individual elevator and all elevators are equally likely to be the next to arrive.
 
-The solution for two or more elevators is complicated by conditional probabilities. Where condition is the choice of which elevator is first to arrive on the second floor is partly contingent on whether it was above us or below, since an elevator that is below the second floor when we begin to wait is likely to arrive ahead of an elevator that is above (all other things being equal).
+The solution for two or more elevators is complicated by conditional probabilities. Where the condition is the choice of which elevator is first to arrive on the second floor is partly contingent on whether it was above us or below, since an elevator that is below the second floor when we begin to wait is likely to arrive ahead of an elevator that is above (all other things being equal).
 
 Mathematical derivation for more than one elevator problem is complex, so here I use the final result and verify the result by simulation.
 
@@ -39,11 +39,11 @@ Mathematical derivation for more than one elevator problem is complex, so here I
 P = 1/2 + (1/2) * (1-2p) * |1-2p|^(n-1)
 ```
 
-where P --> The probability that the First elevator to arrive on the given floor will be going down. p --> Distance from the given floor to bottom floor divided by the distance from the top floor to given floor(The probability that the elevator arriving on your floor moving up when there is a single elevator) n --> Number of elevators.
+where P --> The probability that the First elevator to arrive on the given floor will be going down. p --> Distance from the given floor to the bottom floor divided by the distance from the top floor to the given floor(The probability that the elevator arriving on your floor moves up when there is a single elevator) n --> Number of elevators.
 
-Probability (P) approaches 1/2 as n(number of elevators), approaches to infinity.
+Probability (P) approaches 1/2 as n(number of elevators), approaches infinity.
 
-For seven-story building, the probability that the first elevator to arrive on the second floor(Yogendra's office) will be going down when n=3 is,
+For a seven-story building, the probability that the first elevator to arrive on the second floor(Yogendra's office) will be going down when n=3 is,
 
 ```python
 p = (1/6) and n = 3 => P = 1/2 + (1/2)(1-2/6)^3 = 0.648148
@@ -98,12 +98,12 @@ print(totalgoingdown/1000000)
 **********************************************************************************
 //simulation result is:// 
   for n = 3
-  0.648894 (similar to theoretical result)
+  0.648894 (similar to the theoretical result)
 ```
 
 We imagine that the height of the building is scaled so that floor 1 (the bottom stop of an elevator) is at height 0 and floor 7 (the highest stop of an elevator) is at height 1. Thus, Yogendra’s elevator stop on the second floor is at height G = 1/6.
 
-The n-by-4 array called the elevator, in which the jth row describes the state of the jth elevator. Specifically,
+The n-by-4 array is called the elevator, in which the jth row describes the state of the jth elevator. Specifically,
 
 elevator(j,0) = direction (up or down) the jth elevator is moving when Yogendra requests service;
 
