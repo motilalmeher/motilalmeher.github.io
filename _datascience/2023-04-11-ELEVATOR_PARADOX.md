@@ -1,5 +1,5 @@
 ---
-title: "ELEVATOR PARADOX"
+title: "Elevator Paradox"
 categories:
 tags:
 last_modified_at: 2023-04-11
