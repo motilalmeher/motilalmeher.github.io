@@ -8,7 +8,7 @@ image:
   thumbnail: https://images.unsplash.com/photo-1605027990121-cbae9e0642df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80 
 
 ---
-A story, how I explained Machine Learning to my non-technical friend...
+A narrative about how I conveyed the concept of Machine Learning to a friend without a technical background.
 
 Many times my non-technical friends have shown certain rejection of new technologies, they often say that they are complicated, that they do not understand how they work.
 A few days ago one of my non-technical friend asked me how the TV knew what he liked since it always suggested him to watch programs of his interest, I told him that it was by Machine learning, so he answered what? So I set myself the challenge to explain to my non-technical friend how the platform worked.
