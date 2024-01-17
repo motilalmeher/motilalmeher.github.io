@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2023-04-11
 image: 
-  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLRhoQ7K4gGvLVujFrFmSLZATr0vm6MyZ4A&usqp=CAU
-  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLRhoQ7K4gGvLVujFrFmSLZATr0vm6MyZ4A&usqp=CAU
+  path: https://images.unsplash.com/photo-1596711684682-2f3ea5d2d739?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  thumbnail: https://images.unsplash.com/photo-1596711684682-2f3ea5d2d739?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 Does it occur to you, when waiting for an elevator, that elevators always seem to be going the wrong way?
 
