@@ -1,5 +1,5 @@
 ---
-title: "Recommender System 101"
+title: "Personalisation"
 categories:
 tags:
 last_modified_at: 2023-11-15
