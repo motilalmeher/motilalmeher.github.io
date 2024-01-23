@@ -1,5 +1,5 @@
 ---
-title: "Personalisation"
+title: "Personalization"
 categories:
 tags:
 last_modified_at: 2023-11-15
