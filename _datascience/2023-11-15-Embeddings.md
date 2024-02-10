@@ -8,3 +8,6 @@ image:
   thumbnail: https://c0.wallpaperflare.com/preview/831/304/933/person-wearing-chicago-air-jordan-1-s.jpg
 ---
 Unlocking product essence through powerful vector representation.
+
+
+Information Retrieval.
