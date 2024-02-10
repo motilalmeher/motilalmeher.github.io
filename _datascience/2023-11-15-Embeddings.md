@@ -1,5 +1,5 @@
 ---
-title: "Vector Representation Of Products"
+title: "Embeddings"
 categories:
 tags:
 last_modified_at: 2023-11-15
