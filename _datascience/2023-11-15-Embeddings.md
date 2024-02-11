@@ -11,3 +11,4 @@ Unlocking product essence through powerful vector representation.
 
 
 Information Retrieval.
+Here I will explain all types of information retrival.
