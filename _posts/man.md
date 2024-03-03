@@ -1,1 +1,0 @@
-If a guy is confident, humorous, shows genuine interest in others, engages in the lost art of really listening, and can communicate with enthusiasm about his interests and passions, I think that’s a winning combination.
