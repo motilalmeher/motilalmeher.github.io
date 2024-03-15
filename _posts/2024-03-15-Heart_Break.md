@@ -19,6 +19,7 @@ With the high of being in love, there's inevitably the low of being heartbroken.
 
 I think you should allow yourself to get stuck a little bit. Feel the emotions you're supposed to feel with being heartbroken because it's going to be tough. It's going to feel like nothing you've ever felt before. But it's important to feel that. And it's important to have that experience because if you run away from it, you'll never truly get over it.
 
+And you lost your innocence and became cold-hearted.
 
 
 
