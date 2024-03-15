@@ -7,7 +7,7 @@ image:
   path: https://i0.wp.com/www.screenspy.com/wp-content/uploads/2015/11/141252_8832.jpg?w=1000&ssl=1
   thumbnail: https://i0.wp.com/www.screenspy.com/wp-content/uploads/2015/11/141252_8832.jpg?w=1000&ssl=1
 ---
-What Lessons Have You Learned from Heartbreak?
+What lessons have you learned from heartbreak?
 
 Slef-worth,
 
