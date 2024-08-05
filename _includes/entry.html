@@ -1,0 +1,34 @@
+{% if post.id %}
+  {% assign title = post.title | markdownify | strip_html %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<article class="entry">
+  <div class="content">
+  <header class="entry-header">
+    
+    {% if post.image.thumbnail %}
+      {% assign entry_image = post.image.thumbnail %}
+      {% unless entry_image contains '://' %}
+        {% assign entry_image = entry_image | relative_url %}
+      {% endunless %}
+      {% assign entry_image = entry_image | escape %}
+      <a href="{{ post.url | relative_url }}">
+        <img class="entry-image u-photo" src="{{ entry_image }}" alt=""> 
+      </a>
+    {% endif %}
+    
+    <h3 class="entry-title">
+       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
+    </h3>
+    
+  </header>
+  <div class="entry-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | markdownify }}
+      <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p> 
+    {% endif %}
+  </div>
+  </div> 
+</article>
