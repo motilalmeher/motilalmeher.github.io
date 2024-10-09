@@ -60,7 +60,7 @@ Next time you go to the market, you measure the characteristics of the mangoes o
 
 Voila, you can now shop for mangoes with great confidence, without worrying about the details of how to choose the best mangoes. And what's more, you can make your algorithm improve over time (reinforcement learning), so that it will improve its accuracy as it reads more training data, and modifies itself when it makes a wrong prediction. But the best part is, you can use the same algorithm to train different models, one each for predicting the quality of apples, oranges, bananas, grapes, cherries and watermelons, and keep all your loved ones happy :)
 
-And that, is Machine Learning for you. Tell me if it isn't cool.
+And that, is Machine Learning for you. Tell me if it is not cool.
 
  
 
