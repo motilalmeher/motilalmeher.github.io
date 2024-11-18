@@ -7,16 +7,9 @@ image:
   path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CSPqAtjOpypSWzt4BsC0eWEmNkEMTBJHhg&usqp=CAU
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CSPqAtjOpypSWzt4BsC0eWEmNkEMTBJHhg&usqp=CAU
 ---
-Objective: Smooth and Faster, Longer,  Less Tiered, Less Stroke
-
-
-1. Breakdown the freestyle swimming? 
-2. How to swim and how not to swim in technique’s prespective and slow/fast swimming?
-3. Strength, mobility/range of motion, warmup required for neck, shoulder, arms, core, hips, Legs(Quad, Harmstring, Calf, Ankle)?
-4. How to breath?
-5. How to kick ?
-6. How to training: Routine (slow, tempo, fast, HIIT, Active rest)?
-7. Drill and training outside swimming pool?
+Goal:
+1. 100 laps(1 lap = 25 meter) in 1 hour.
+2. 250 meter(10 laps) without stopping
 
 Physics of Swimming:
 1. First law of motion: Resting body wants to stay at rest, and it takes energy to get moving. Don't over glide.
@@ -59,6 +52,12 @@ Breaks down the freestyle stroke into six parts:
   - Make sure your hand enters the water above your shoulder and not too wide.
   - Don't enter the water too early.
 
+How to perfect your flip turn in freestyle swimming?
+How to perfect your dolphin kick before freestyle and after taking turn?
+How to perfect your flutter kick during freestyle?
+How to perfect your breathing?
+
+Drills for Improvement:
 
 Mistakes swimmers make in freestyle are:
 1. Looking forward. Instead of looking forward, keep your head down and look at the bottom of the pool.
@@ -67,6 +66,3 @@ Mistakes swimmers make in freestyle are:
 4. Crossover: crossing the midline of your body with your hand during the arm stroke.
 5. Pulling with a straight arm. Bend the elbow and pul with an early vertical forearm.
 
-Attention to details:
-1. Minimize Darg:
-2. Maximize Propulsion:
