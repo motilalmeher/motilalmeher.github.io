@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2024-05-05
 image: 
-  path: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?crop=0.984xw:0.738xh;0,0&resize=1200:*
-  thumbnail: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?crop=0.984xw:0.738xh;0,0&resize=1200:*
+  path: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?
+  thumbnail: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?
 ---
 Things to cover:
 
