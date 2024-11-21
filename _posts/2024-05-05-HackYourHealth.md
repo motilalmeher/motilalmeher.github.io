@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2024-05-05
 image: 
-  path: https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/food-beverage-nutrition/foodnavigator.com/news/science/feeding-your-gut-microbiome-why-focus-on-fibre/15689550-1-eng-GB/Feeding-your-gut-microbiome-Why-focus-on-fibre.png
-  thumbnail: https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/food-beverage-nutrition/foodnavigator.com/news/science/feeding-your-gut-microbiome-why-focus-on-fibre/15689550-1-eng-GB/Feeding-your-gut-microbiome-Why-focus-on-fibre.png
+  path: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?crop=0.984xw:0.738xh;0,0&resize=1200:*
+  thumbnail: https://hips.hearstapps.com/hmg-prod/images/healthy-food-clean-eating-selection-royalty-free-image-854725402-1541694348.jpg?crop=0.984xw:0.738xh;0,0&resize=1200:*
 ---
 Things to cover:
 
