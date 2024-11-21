@@ -7,6 +7,7 @@ image:
   path: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
   thumbnail: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
 ---
+
 1. **Blending Styles**: Contemporary dance pulls from ballet, jazz, and more, focusing on freedom, emotion, and smooth, flowing movements. It uses gravity, improvisation, and floor work, giving dancers room for personal expression.
 
 2. **Core and Stability**: You need a solid core and stable lower body to move with strength and fluidity. Adding yoga and stretching to your routine will help you stay flexible and ready for dynamic movement.
