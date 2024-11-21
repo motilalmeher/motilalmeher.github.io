@@ -2,7 +2,7 @@
 title: "Contemporary Dance"
 categories:
 tags:
-last_modified_at: 2024-11-22
+last_modified_at: 2024-11-21
 image: 
   path: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
   thumbnail: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
