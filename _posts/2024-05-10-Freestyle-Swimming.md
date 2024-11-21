@@ -7,7 +7,7 @@ image:
   path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CSPqAtjOpypSWzt4BsC0eWEmNkEMTBJHhg&usqp=CAU
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1CSPqAtjOpypSWzt4BsC0eWEmNkEMTBJHhg&usqp=CAU
 ---
-My Freestyle Swimming Target for 2025
+My Freestyle Target for 2025
 
 1. 100 laps(1 lap = 25 meter) in 1 hour.
 2. 250 meter(10 laps) without stopping
