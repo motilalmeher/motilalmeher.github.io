@@ -7,7 +7,7 @@ image:
   path: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
   thumbnail: https://www.denverlibrary.org/sites/dplorg/files/2023/03/Rush-Hour-2-by-Larry-Keigwin_photo-by-Whitney-Browne.jpg
 ---
-**My Plan for 2025: Mastering Contemporary Dance**
+**Mastering Contemporary Dance**
 
 1. **Blending Styles**: Contemporary dance pulls from ballet, jazz, and more, focusing on freedom, emotion, and smooth, flowing movements. It uses gravity, improvisation, and floor work, giving dancers room for personal expression.
 
