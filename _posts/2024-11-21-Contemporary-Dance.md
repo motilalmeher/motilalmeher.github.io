@@ -38,5 +38,6 @@ image:
 11. X Roll
 12. Dolphin Roll
 13. Helicoptor Roll
-Link1[https://www.youtube.com/watch?v=7EGNMc2VmMg]
-Link2[https://www.youtube.com/watch?v=Kh8FMlMs1sI]
+
+[Different Dance Rolls- Demonstration and Tutorial](https://www.youtube.com/watch?v=Kh8FMlMs1sI)
+[25 Dance and Gymnastics Rolls](https://www.youtube.com/watch?v=7EGNMc2VmMg)
