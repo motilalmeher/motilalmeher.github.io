@@ -38,6 +38,72 @@ image:
 11. X Roll
 12. Dolphin Roll
 13. Helicoptor Roll
+14. Shoulder middle split roll
 
 [Different Dance Rolls- Demonstration and Tutorial](https://www.youtube.com/watch?v=Kh8FMlMs1sI)\
 [25 Dance and Gymnastics Rolls](https://www.youtube.com/watch?v=7EGNMc2VmMg)
+
+**Fish Flop**:
+1. Standard Fish Flop
+2. Twisted Fish Flop
+3. Windmill Fish Flop
+
+**Dynamic Acrobatics**:
+1. Cartwheel and Variations
+2. Head Stand Cartwheel
+4. Double Cartwheel
+5. Flying Squirrels
+6. Knee Spin
+
+**Floor Work & Slides**:
+1. Tornado [https://youtube.com/shorts/m8oRCpd448M?si=CyVa_62GkkrGYY3H]
+2. Remix coffee grinder
+3. Dive and roll
+4. [Dragontail] (https://youtube.com/shorts/_NgN3QBTpvE?si=MdjdkpBpsS4BCaBA)
+5. Knee Slide
+6. [Swizzle] (https://youtube.com/shorts/uYvt1VhX1ZQ?si=_n0WDpXyGyXPcqyN)
+7. [Shin Slide] (https://www.youtube.com/watch?v=XWk3h9SWV-8)
+8. Leg Swings[1](https://youtu.be/1aZG0WLnPv4?si=Fxm9zbsESLYq3gJC),[2](https://youtube.com/shorts/SEHInYY4shE?si=Std8D-qOmPoRTSEj)
+
+[Swing & Slide](https://youtube.com/shorts/yAlHFd8ifUk?si=2doekzhmBJSe73pC)
+
+**Leaps, Lifts, and Splits**
+1. [Floor Leap, Reverse Floor Leap, center leap](https://youtu.be/EGlU79WJ6Dg?si=ZOMdOeX-n9A5ZG7I)
+2. [Arabesque Switch Leap](https://youtube.com/shorts/ntbF3HPb1zk?si=lRdp-36eWZ7PoNSh)
+3. Bridge Thread the Needle
+4. [Dance Lift](https://youtu.be/7_73xrAuQ9E?si=T7xayC92UrB08Caz)
+  1) Hip lift sideways
+  2) Cartwheel over legs
+  3) Peacock
+  4) Straddle over back
+  5) Front walkover with help (helper lying on floor)
+  6) Straddle press (above head)
+  7) Reversed split
+  8) Double cartwheel
+  9) Jackknife
+  10) Freeze in arms (upside down, holding hands)
+  11) Front walkover with help (helper standing)
+  12) Straddle over one leg (upside down)
+
+**Turns and Spins**
+1. Magic Wand
+2. Second Turns
+3. Leg Catch Turn
+
+**Ballet & Jazz Influences**
+1. Plie & Develop
+2. Port de Bras
+3. Calypso Jump & Leap
+4. Hook Jump
+[Jump Technique](https://www.youtube.com/watch?v=kezIG0xvjiw)
+[Jump Reel](https://www.youtube.com/shorts/VoydaOMBgR4)
+[Jump Reel2](https://www.youtube.com/shorts/qraOTaddZcM)
+[Showstopping Jump/Arabesque Switch Leap](https://youtube.com/shorts/ntbF3HPb1zk?si=lRdp-36eWZ7PoNSh)
+
+**Acrobatics**
+1. Cartwheel and Variations
+2. Head Stand Cartwheel
+3. Tilt and variations
+
+**Drill**
+1. Downward Dog [1](https://youtube.com/shorts/8g1QT8bDOwA?si=DDdvpRYc2fv3R8hx),[2](https://youtu.be/DETAZqfLuT4?si=fEtMsk3H8ym_Qi26)
