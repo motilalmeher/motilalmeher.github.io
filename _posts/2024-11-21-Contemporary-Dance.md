@@ -20,3 +20,23 @@ image:
 5. **Warm-Up and Flexibility**: Always warm up before class to avoid injuries. A good stretch or yoga routine beforehand will help you increase your flexibility and make your movements smoother.
 
 6. **Creative Exploration**: Contemporary dance is all about experimenting with different movement ideas. You’ll work with breath, opposition, and release, and learn how to use spirals, suspension, and space in your dance. It’s about breaking traditions, collaborating with others, and pushing your artistic boundaries.
+
+
+**List of Dance Moves:**
+
+**Rolls**: 
+1. Shoulder Roll
+2. Fish Roll
+3. Dead Fish Roll
+4. Split Roll
+5. Back Roll
+6. Somersault Kinda
+7. Suspended Back Roll
+8. Penche Roll
+9. Crescent Roll
+10. Side Roll
+11. X Roll
+12. Dolphin Roll
+13. Helicoptor Roll
+Link1[https://www.youtube.com/watch?v=7EGNMc2VmMg]
+Link2[https://www.youtube.com/watch?v=Kh8FMlMs1sI]
