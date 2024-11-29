@@ -107,3 +107,4 @@ image:
 
 **Drill**
 1. Downward Dog [1](https://youtube.com/shorts/8g1QT8bDOwA?si=DDdvpRYc2fv3R8hx),[2](https://youtu.be/DETAZqfLuT4?si=fEtMsk3H8ym_Qi26)
+2. [Routine](https://docs.google.com/spreadsheets/d/1RoslUGM7DemjmLh9j106r9mXjWiijljP7AMpZDhOo-c/edit?gid=0#gid=0)
