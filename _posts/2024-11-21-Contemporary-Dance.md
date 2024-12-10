@@ -61,8 +61,8 @@ image:
 3. Dive and roll
 4. [Dragontail](https://youtube.com/shorts/_NgN3QBTpvE?si=MdjdkpBpsS4BCaBA)
 5. Knee Slide
-6. [Swizzle] (https://youtube.com/shorts/uYvt1VhX1ZQ?si=_n0WDpXyGyXPcqyN)
-7. [Shin Slide] (https://www.youtube.com/watch?v=XWk3h9SWV-8)
+6. [Swizzle](https://youtube.com/shorts/uYvt1VhX1ZQ?si=_n0WDpXyGyXPcqyN)
+7. [Shin Slide](https://www.youtube.com/watch?v=XWk3h9SWV-8)
 8. Leg Swings[1](https://youtu.be/1aZG0WLnPv4?si=Fxm9zbsESLYq3gJC),[2](https://youtube.com/shorts/SEHInYY4shE?si=Std8D-qOmPoRTSEj)
 
 [Swing & Slide](https://youtube.com/shorts/yAlHFd8ifUk?si=2doekzhmBJSe73pC)
