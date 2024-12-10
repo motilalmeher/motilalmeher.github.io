@@ -56,10 +56,10 @@ image:
 6. Knee Spin
 
 **Floor Work & Slides**:
-1. Tornado [https://youtube.com/shorts/m8oRCpd448M?si=CyVa_62GkkrGYY3H]
+1. [Tornado](https://youtube.com/shorts/m8oRCpd448M?si=CyVa_62GkkrGYY3H)
 2. Remix coffee grinder
 3. Dive and roll
-4. [Dragontail] (https://youtube.com/shorts/_NgN3QBTpvE?si=MdjdkpBpsS4BCaBA)
+4. [Dragontail](https://youtube.com/shorts/_NgN3QBTpvE?si=MdjdkpBpsS4BCaBA)
 5. Knee Slide
 6. [Swizzle] (https://youtube.com/shorts/uYvt1VhX1ZQ?si=_n0WDpXyGyXPcqyN)
 7. [Shin Slide] (https://www.youtube.com/watch?v=XWk3h9SWV-8)
