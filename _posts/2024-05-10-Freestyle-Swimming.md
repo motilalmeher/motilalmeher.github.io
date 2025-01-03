@@ -54,6 +54,7 @@ Breaks down the freestyle stroke into six parts:
   - Don't enter the water too early.
 
 [video link](https://youtu.be/wvVZZy-8fv4?si=tJ2iK7lLuKWq0Hwx)
+[video link2](https://m.youtube.com/watch?v=ignysw4pFO0)
 
 1. How to perfect your flip turn in freestyle swimming?
 2. How to perfect your dolphin kick before freestyle and after taking turn?
