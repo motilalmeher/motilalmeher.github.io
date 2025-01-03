@@ -53,17 +53,18 @@ Breaks down the freestyle stroke into six parts:
   - Make sure your hand enters the water above your shoulder and not too wide.
   - Don't enter the water too early.
 
-How to perfect your flip turn in freestyle swimming?
-How to perfect your dolphin kick before freestyle and after taking turn?
-How to perfect your flutter kick during freestyle?
-How to perfect your breathing?
+[video link](https://youtu.be/wvVZZy-8fv4?si=tJ2iK7lLuKWq0Hwx)
 
-Drills for Improvement:
+1. How to perfect your flip turn in freestyle swimming?
+2. How to perfect your dolphin kick before freestyle and after taking turn?
+3. How to perfect your flutter kick during freestyle?
+4. How to perfect your breathing?
+5. Drills?
 
 Mistakes swimmers make in freestyle are:
 1. Looking forward. Instead of looking forward, keep your head down and look at the bottom of the pool.
 2. Kicking too much. Kicking should be short and fast, with the focus on hip rotation rather than amplitude.
 3. Shouldn't hold your breath while swimming. Exhale slowly through nose(underwater), inhale quickly through their mouth (turning their head to breathe).
 4. Crossover: crossing the midline of your body with your hand during the arm stroke.
-5. Pulling with a straight arm. Bend the elbow and pul with an early vertical forearm.
+5. Pulling with a straight arm. Bend the elbow and pull with an early vertical forearm.
 
