@@ -20,3 +20,5 @@ https://www.boredpanda.com/i-spend-9-months-developing-a-flexible-algorithm-syst
 https://www.behance.net/gallery/2043997/Wall-Street-Journal-Hedcuts
 https://github.com/ehufsted/HalftonePAL
 https://ehufsted.itch.io/halftonepal
+
+From Stippling to Scribbling http://archive.bridgesmathart.org/2015/bridges2015-267.pdf
