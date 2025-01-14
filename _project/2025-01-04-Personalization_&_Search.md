@@ -14,3 +14,5 @@ AI/ML encompasses a wide range of domains and areas of interest. For me, the mos
 https://blog.reachsumit.com/categories/recommender-systems/
 https://github.com/eugeneyan/applied-ml
 https://eugeneyan.com/writing/system-design-for-discovery/
+https://eugeneyan.com/writing/patterns-for-personalization/
+https://eugeneyan.com/writing/system-design-for-discovery/
