@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2025-01-14
 image: 
-  path: https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Jb306SqcT0f-5ZFe
-  thumbnail: https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Jb306SqcT0f-5ZFe
+  path: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qR08Jxq0IHdvFtBsUhCe3Q.jpeg
+  thumbnail: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qR08Jxq0IHdvFtBsUhCe3Q.jpeg
 ---
 Personalization & Search
 
