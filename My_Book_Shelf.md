@@ -9,8 +9,8 @@ title: "My Book Shelf"
             <summary class="tree-nav__item-title"> Behold the Leviathan: The Unusual Rise of Modern India </summary>
 
             <ul>
-              <li> Author: Saurabh Mukherjee </li>
-              <li> Summary: </li>
+              <li> Author : Saurabh Mukherjee </li>
+              <li> Summary : </li>
             </ul>
       </details>
 
@@ -18,8 +18,8 @@ title: "My Book Shelf"
             <summary class="tree-nav__item-title"> Shoe Dog </summary>
 
             <ul>
-              <li> Author: Phil Knight </li>
-              <li> Summary: </li>
+              <li> Author : Phil Knight </li>
+              <li> Summary : </li>
             </ul>
       </details>
       
