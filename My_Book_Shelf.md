@@ -9,7 +9,7 @@ title: "My Book Shelf"
             <summary class="tree-nav__item-title"> Behold the Leviathan: The Unusual Rise of Modern India </summary>
 
             <ul>
-              <li> Author: (Saurabh Mukherjea)[https://www.linkedin.com/in/saurabh-mukherjea-frsa-36196b2/?originalSubdomain=in] </li>
+              <li> Author: [Saurabh Mukherjea](https://www.linkedin.com/in/saurabh-mukherjea-frsa-36196b2/?originalSubdomain=in) </li>
               <li> Summary: </li>
             </ul>
       </details>
