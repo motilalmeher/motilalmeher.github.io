@@ -6,55 +6,23 @@ title: "My Book Shelf"
 <summary class="tree-nav__item-title"> Currently Reading </summary> 
    
       <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 1. It Ends With Us </summary>
+            <summary class="tree-nav__item-title"> Behold the Leviathan: The Unusual Rise of Modern India </summary>
 
             <ul>
-              <li> Author </li>
-              <li> Summary </li>
+              <li> Author: (Saurabh Mukherjea)[https://www.linkedin.com/in/saurabh-mukherjea-frsa-36196b2/?originalSubdomain=in] </li>
+              <li> Summary: </li>
             </ul>
       </details>
+
       <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 2. The Love Hypothesis </summary>
+            <summary class="tree-nav__item-title"> Shoe Dog </summary>
 
             <ul>
-              <li> Author </li>
-              <li> Summary </li>
+              <li> Author: Phil Knight </li>
+              <li> Summary: </li>
             </ul>
       </details>
-       <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 3. Elenor And Park </summary>
-
-            <ul>
-              <li> Author </li>
-              <li> Summary </li>
-            </ul>
-      </details>
-      <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 4. Walk To Remember </summary>
-
-            <ul>
-              <li> Author </li>
-              <li> Summary </li>
-            </ul>
-      </details>
-      <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 5. Thinking, Fast & Slow </summary>
-
-            <ul>
-              <li> Author </li>
-              <li> Summary </li>
-            </ul>
-      </details>
-       <details class="tree-nav__item is-expandable">
-            <summary class="tree-nav__item-title"> 6. Outliers : The Story of Success </summary>
-
-            <ul>
-              <li> Author </li>
-              <li> Summary </li>
-            </ul>
-      </details>
-    
- 
+      
 </details>
 
 <details class="tree-nav__item is-expandable">
