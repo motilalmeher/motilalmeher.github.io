@@ -16,3 +16,8 @@ https://github.com/eugeneyan/applied-ml
 https://eugeneyan.com/writing/system-design-for-discovery/
 https://eugeneyan.com/writing/patterns-for-personalization/
 https://eugeneyan.com/writing/system-design-for-discovery/
+
+https://aman.ai/recsys/index.html
+https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/
+
+
