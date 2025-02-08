@@ -20,5 +20,5 @@ https://eugeneyan.com/writing/system-design-for-discovery/
 https://aman.ai/recsys/index.html
 https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/
 https://about.instagram.com/blog/announcements/instagram-ranking-explained
-
+https://github.com/jihoo-kim/awesome-RecSys?tab=readme-ov-file
 
