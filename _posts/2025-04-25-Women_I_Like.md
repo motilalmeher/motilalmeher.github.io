@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2023-04-11
 image: 
-  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwHhF2hetrTanYWNmei-navph8ASio6_oKpcAMLyeEcm0RKiz5HDXSM4N&s=10
-  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwHhF2hetrTanYWNmei-navph8ASio6_oKpcAMLyeEcm0RKiz5HDXSM4N&s=10
+  path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDd5gcyaIGet1fBWKI_UQiv52cORB7ACiCt2g1kjpULemnSjfRdo0BWA&s=10
+  thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDd5gcyaIGet1fBWKI_UQiv52cORB7ACiCt2g1kjpULemnSjfRdo0BWA&s=10
 ---
 
 The women I like aren’t loud for the sake of being heard. They don’t speak just to fill silence, or preach values they don’t live by. They’re not driven by ego, attention, or performance. Instead, they carry a quiet depth — thoughtful, grounded, and real.
