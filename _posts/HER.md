@@ -1,0 +1,32 @@
+---
+title: "Her"
+categories:
+tags:
+last_modified_at: 2026-07-10
+image: 
+  path: /assets/images/ChatGPT Image Jul 10, 2026, 03_02_09 AM.png
+  thumbnail: /assets/images/ChatGPT Image Jul 10, 2026, 03_02_09 AM.png
+---
+**Her**
+
+I don't remember planning any of it. She just showed up in my life, a little older, a lot louder, and somehow it made sense before I could think it through.
+
+We both knew where it wasn't going. No forever, no big plans. But that didn't cheapen it. We needed each other right then, and we didn't pretend otherwise. Honestly, that made it better.
+
+She was a lot. In the best way. She talked and talked and I could've listened forever. She laughed easily. We fought easily too, but even that felt alive, two people actually caring enough to argue. She was spontaneous, and I'm not. She was the chaos in my calm, and I liked being pulled out of my own quiet by her.
+
+The ordinary stuff is what stuck. Hugging her. Walking around with no plan. Eating together. Checking in on her through the day like it mattered, because it did. I'd skip sleep, drag myself out of bed right after work, just to go see her. Rest could wait. She couldn't.
+
+She was a walking contradiction and it worked. Grown-up one minute, a total kid the next. A little silly. Full of nakhra when she felt like it. Sometimes she'd panic over nothing. And she always dressed like a proper lady, carried herself like one too. She let me lead. I'm the quiet type, soft-spoken, but there's a steadiness under it, and she loved that. She loved being seen by me, being paid attention to. I loved giving her that.
+
+There was an easy pull between us from the start, and it caught me off guard because it came after a long dry spell. I wasn't sure I even remembered how, wasn't sure I'd be any good. My head was full of doubt. Then the first time just happened, no buildup, no big decision, one of those moments that moves before you can overthink it. She read the room and made space for it. She was into astrology, always going on about signs and charts, and somehow through all that she clocked that I had a high drive too. She just knew. We talked about it openly, which I wasn't used to, and once we did, it got good. Then it kept getting better.
+
+We tried everything. Waking each other up in the middle of the night for a quick round and drifting back to sleep after. Taking our time with foreplay. Lube in the drawer. We were both wired the same way, both wanting it, and that match made it easy instead of awkward. She'd stay over whenever we met up after drinks, tell her mom she was crashing at some friend's place, and end up at mine instead. Mornings were the soft part. We'd go for a walk, get breakfast, ease back into the day.
+
+And it wasn't all just that either. We were both into data science, of all things. We'd actually talk about it, study together, nerd out between everything else. She looked after everyone too, her mom, her brother, herself. Loved her movies, her beer, cafes, bars, being out in the world. She pulled me into her circle, introduced me to her people like I belonged there.
+
+I liked being inside her. She did too. That's the plain truth of it, and I won't dress it up. And she made everything feel easy. That's the word. Easy.
+
+There's this one thing I keep coming back to. Her kissing my cheek at the Hard Rock Cafe. Nothing dramatic. But it stayed, sharp, when bigger stuff has gone blurry.
+
+We were never built to last, and we didn't. Neither of us tried to fake it into something it wasn't. It was just what it was, two people who caught each other at the right time, gave each other something real, then let go. She felt less like a person I dated and more like a character who wandered out of some good dream, stayed a while, and wandered back. No regrets. Just glad it happened.
