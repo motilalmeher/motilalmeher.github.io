@@ -7,6 +7,7 @@ image:
   path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDd5gcyaIGet1fBWKI_UQiv52cORB7ACiCt2g1kjpULemnSjfRdo0BWA&s=10
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDd5gcyaIGet1fBWKI_UQiv52cORB7ACiCt2g1kjpULemnSjfRdo0BWA&s=10
 ---
+The women
 
 The women I like aren’t loud for the sake of being heard. They don’t speak just to fill silence, or preach values they don’t live by. They’re not driven by ego, attention, or performance. Instead, they carry a quiet depth — thoughtful, grounded, and real.
 
