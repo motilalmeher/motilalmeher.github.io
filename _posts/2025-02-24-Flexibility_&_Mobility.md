@@ -4,8 +4,8 @@ categories:
 tags:
 last_modified_at: 2025-02-24
 image: 
-  path: https://yogaworks.com/wp-content/uploads/2023/08/CV-2669.png
-  thumbnail: https://yogaworks.com/wp-content/uploads/2023/08/CV-2669.png
+  path: https://cdn.betterme.world/articles/wp-content/uploads/2024/04/shutterstock_2019287666-scaled.jpg
+  thumbnail: https://cdn.betterme.world/articles/wp-content/uploads/2024/04/shutterstock_2019287666-scaled.jpg
 ---
 # List of Exercises and Stretches
 
